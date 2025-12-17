@@ -1,0 +1,4164 @@
+[
+    {
+        "id": "m1",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"wczoraj\"?",
+        "answer": "ayer",
+        "explanation": "wczoraj = ayer"
+    },
+    {
+        "id": "cs1",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ w domu\" (Yo estoy en casa)",
+        "answer": "jestem",
+        "explanation": "Ja jestem w domu"
+    },
+    {
+        "id": "d1",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"kot\" → (de) ____",
+        "answer": "kota",
+        "explanation": "Genitivo singular masculino animado: kota"
+    },
+    {
+        "id": "t1",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam dwa psy\"",
+        "answer": "tengo dos perros",
+        "explanation": "Mam = tengo, dwa = dos, psy = perros"
+    },
+    {
+        "id": "m1",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"wczoraj\"?",
+        "answer": "ayer",
+        "explanation": "wczoraj = ayer"
+    },
+    {
+        "id": "m2",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dzisiaj\"?",
+        "answer": "hoy",
+        "explanation": "dzisiaj = hoy"
+    },
+
+    {
+        "id": "t11",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mieszkam w Polsce\"",
+        "answer": "vivo en Polonia",
+        "explanation": "Mieszkam = vivo, w Polsce = en Polonia"
+    },
+    {
+        "id": "t12",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mieszkasz w Krakowie\"",
+        "answer": "vives en Cracovia",
+        "explanation": "Mieszkasz = vives, w Krakowie = en Cracovia"
+    },
+    {
+        "id": "t13",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Idę do domu\"",
+        "answer": "voy a casa",
+        "explanation": "Idę = voy (a pie), do domu = a casa"
+    },
+    {
+        "id": "t14",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Idziemy do szkoły\"",
+        "answer": "vamos a la escuela",
+        "explanation": "Idziemy = vamos, do szkoły = a la escuela"
+    },
+    {
+        "id": "t15",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Czytam książkę\"",
+        "answer": "leo un libro",
+        "explanation": "Czytam = leo, książkę = un libro (acusativo)"
+    },
+    {
+        "id": "m14",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"szkoła\"?",
+        "answer": "escuela",
+        "explanation": "szkoła = escuela"
+    },
+    {
+        "id": "m15",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"język\"?",
+        "answer": "idioma",
+        "explanation": "język = idioma / lengua"
+    },
+    {
+        "id": "m16",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"książka\"?",
+        "answer": "libro",
+        "explanation": "książka = libro"
+    },
+    {
+        "id": "m17",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"woda\"?",
+        "answer": "agua",
+        "explanation": "woda = agua"
+    },
+    {
+        "id": "m18",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"chleb\"?",
+        "answer": "pan",
+        "explanation": "chleb = pan"
+    },
+    {
+        "id": "m19",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"mleko\"?",
+        "answer": "leche",
+        "explanation": "mleko = leche"
+    },
+    {
+        "id": "m20",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"kawa\"?",
+        "answer": "café",
+        "explanation": "kawa = café"
+    },
+    {
+        "id": "m21",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"herbata\"?",
+        "answer": "té",
+        "explanation": "herbata = té"
+    },
+    {
+        "id": "m22",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dziękuję\"?",
+        "answer": "gracias",
+        "explanation": "dziękuję = gracias"
+    },
+    {
+        "id": "m23",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"proszę\"?",
+        "answer": "por favor",
+        "explanation": "proszę = por favor / de nada (según contexto)"
+    },
+    {
+        "id": "m24",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"przepraszam\"?",
+        "answer": "perdón",
+        "explanation": "przepraszam = perdón / disculpa"
+    },
+    {
+        "id": "m25",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"tak\"?",
+        "answer": "sí",
+        "explanation": "tak = sí"
+    },
+
+    {
+        "id": "cs1",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ w domu\" (Yo estoy en casa)",
+        "answer": "jestem",
+        "explanation": "Ja jestem w domu"
+    },
+    {
+        "id": "cs2",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ Polakiem\" (Tú eres polaco)",
+        "answer": "jesteś",
+        "explanation": "Ty jesteś Polakiem"
+    },
+    {
+        "id": "cs3",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"On ___ zmęczony\" (Él está cansado)",
+        "answer": "jest",
+        "explanation": "On jest zmęczony"
+    },
+    {
+        "id": "cs4",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"My ___ w pracy\" (Nosotros estamos en el trabajo)",
+        "answer": "jesteśmy",
+        "explanation": "My jesteśmy w pracy"
+    },
+    {
+        "id": "cs5",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Wy ___ w domu\" (Ustedes están en casa)",
+        "answer": "jesteście",
+        "explanation": "Wy jesteście w domu"
+    },
+    {
+        "id": "cs6",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Oni ___ w Warszawie\" (Ellos están en Varsovia)",
+        "answer": "są",
+        "explanation": "Oni są w Warszawie"
+    },
+    {
+        "id": "cs7",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ kawę\" (Yo bebo café)",
+        "answer": "piję",
+        "explanation": "Ja piję kawę"
+    },
+    {
+        "id": "cs8",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ herbatę\" (Tú bebes té)",
+        "answer": "pijesz",
+        "explanation": "Ty pijesz herbatę"
+    },
+    {
+        "id": "cs9",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"On ___ wodę\" (Él bebe agua)",
+        "answer": "pije",
+        "explanation": "On pije wodę"
+    },
+    {
+        "id": "cs10",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"My ___ chleb\" (Nosotros comemos pan)",
+        "answer": "jemy",
+        "explanation": "My jemy chleb"
+    },
+    {
+        "id": "cs11",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ po polsku\" (Tú hablas polaco)",
+        "answer": "mówisz",
+        "explanation": "Ty mówisz po polsku"
+    },
+    {
+        "id": "cs12",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ po hiszpańsku\" (Yo hablo español)",
+        "answer": "mówię",
+        "explanation": "Ja mówię po hiszpańsku"
+    },
+    {
+        "id": "cs13",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"On ___ w szkole\" (Él trabaja en la escuela)",
+        "answer": "pracuje",
+        "explanation": "On pracuje w szkole"
+    },
+    {
+        "id": "cs14",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"My ___ w domu\" (Nosotros vivimos en casa / en la casa)",
+        "answer": "mieszkamy",
+        "explanation": "My mieszkamy w domu"
+    },
+    {
+        "id": "cs15",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ książkę\" (Yo leo un libro)",
+        "answer": "czytam",
+        "explanation": "Ja czytam książkę"
+    },
+    {
+        "id": "cs16",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ muzyki\" (Tú escuchas música)",
+        "answer": "słuchasz",
+        "explanation": "Ty słuchasz muzyki"
+    },
+    {
+        "id": "cs17",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"On ___ do domu\" (Él va a casa)",
+        "answer": "idzie",
+        "explanation": "On idzie do domu"
+    },
+    {
+        "id": "cs18",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"My ___ do szkoły\" (Nosotros vamos a la escuela)",
+        "answer": "idziemy",
+        "explanation": "My idziemy do szkoły"
+    },
+    {
+        "id": "cs19",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ w Warszawie\" (Yo vivo en Varsovia)",
+        "answer": "mieszkam",
+        "explanation": "Ja mieszkam w Warszawie"
+    },
+    {
+        "id": "cs20",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ w Krakowie\" (Tú vives en Cracovia)",
+        "answer": "mieszkasz",
+        "explanation": "Ty mieszkasz w Krakowie"
+    },
+    {
+        "id": "cs21",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"On ___ samochód\" (Él tiene un coche)",
+        "answer": "ma",
+        "explanation": "On ma samochód"
+    },
+    {
+        "id": "cs22",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ja ___ czas\" (Yo tengo tiempo)",
+        "answer": "mam",
+        "explanation": "Ja mam czas"
+    },
+    {
+        "id": "cs23",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"My ___ dwa psy\" (Nosotros tenemos dos perros)",
+        "answer": "mamy",
+        "explanation": "My mamy dwa psy"
+    },
+    {
+        "id": "cs24",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Ty ___ jeden kot\" (Tú tienes un gato)",
+        "answer": "masz",
+        "explanation": "Ty masz jeden kot"
+    },
+    {
+        "id": "cs25",
+        "type": "complete_sentence",
+        "prompt": "Completa la frase: \"Oni ___ w Polsce\" (Ellos viven en Polonia)",
+        "answer": "mieszkają",
+        "explanation": "Oni mieszkają w Polsce"
+    },
+
+    {
+        "id": "d1",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"kot\" → (de) ____",
+        "answer": "kota",
+        "explanation": "Genitivo singular (masculino animado): kota"
+    },
+    {
+        "id": "d2",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"pies\" → (de) ____",
+        "answer": "psa",
+        "explanation": "Genitivo singular: psa"
+    },
+    {
+        "id": "d3",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"dom\" → (de) ____",
+        "answer": "domu",
+        "explanation": "Genitivo singular: domu"
+    },
+    {
+        "id": "d4",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"Warszawa\" → (de) ____",
+        "answer": "Warszawy",
+        "explanation": "Genitivo singular femenino: Warszawy"
+    },
+    {
+        "id": "d5",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"kobieta\" → (de) ____",
+        "answer": "kobiety",
+        "explanation": "Genitivo singular femenino: kobiety"
+    },
+    {
+        "id": "d6",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"książka\" → (de) ____",
+        "answer": "książki",
+        "explanation": "Genitivo singular femenino: książki"
+    },
+    {
+        "id": "d7",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"dziecko\" → (de) ____",
+        "answer": "dziecka",
+        "explanation": "Genitivo singular neutro: dziecka"
+    },
+    {
+        "id": "d8",
+        "type": "declension",
+        "prompt": "Declinación (genitivo): \"miasto\" → (de) ____",
+        "answer": "miasta",
+        "explanation": "Genitivo singular neutro: miasta"
+    },
+    {
+        "id": "d9",
+        "type": "declension",
+        "prompt": "Declinación (locativo): \"dom\" → (en) ____",
+        "answer": "domu",
+        "explanation": "Locativo singular: w domu"
+    },
+    {
+        "id": "d10",
+        "type": "declension",
+        "prompt": "Declinación (locativo): \"Polska\" → (en) ____",
+        "answer": "Polsce",
+        "explanation": "Locativo singular: w Polsce"
+    },
+    {
+        "id": "d11",
+        "type": "declension",
+        "prompt": "Declinación (locativo): \"szkoła\" → (en) ____",
+        "answer": "szkole",
+        "explanation": "Locativo singular: w szkole"
+    },
+    {
+        "id": "mix_1",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dziewczyna\"?",
+        "choices": ["chica", "hombre", "perro", "mesa"],
+        "answer": "chica",
+        "explanation": "dziewczyna = chica"
+    },
+    {
+        "id": "mix_2",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"chłopak\"?",
+        "choices": ["chico", "niña", "libro", "pan"],
+        "answer": "chico",
+        "explanation": "chłopak = chico"
+    },
+    {
+        "id": "mix_3",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"rodzina\"?",
+        "choices": ["familia", "cocina", "ciudad", "escuela"],
+        "answer": "familia",
+        "explanation": "rodzina = familia"
+    },
+    {
+        "id": "mix_4",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"przyjaciel\"?",
+        "choices": ["amigo", "profesor", "vecino", "doctor"],
+        "answer": "amigo",
+        "explanation": "przyjaciel = amigo"
+    },
+    {
+        "id": "mix_5",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"przyjaciółka\"?",
+        "choices": ["amiga", "madre", "abuela", "hija"],
+        "answer": "amiga",
+        "explanation": "przyjaciółka = amiga"
+    },
+    {
+        "id": "mix_6",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"sklep\"?",
+        "choices": ["tienda", "hospital", "parque", "oficina"],
+        "answer": "tienda",
+        "explanation": "sklep = tienda"
+    },
+    {
+        "id": "mix_7",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"pociąg\"?",
+        "choices": ["tren", "avión", "barco", "bicicleta"],
+        "answer": "tren",
+        "explanation": "pociąg = tren"
+    },
+    {
+        "id": "mix_8",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"autobus\"?",
+        "choices": ["autobús", "coche", "metro", "moto"],
+        "answer": "autobús",
+        "explanation": "autobus = autobús"
+    },
+    {
+        "id": "mix_9",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ulica\"?",
+        "choices": ["calle", "puerta", "ventana", "habitación"],
+        "answer": "calle",
+        "explanation": "ulica = calle"
+    },
+    {
+        "id": "mix_10",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"pokój\"?",
+        "choices": ["habitación", "cocina", "baño", "jardín"],
+        "answer": "habitación",
+        "explanation": "pokój = habitación / cuarto"
+    },
+
+    {
+        "id": "mix_11",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ja ___ po polsku.\"",
+        "choices": ["mówię", "mówisz", "mówi", "mówimy"],
+        "answer": "mówię",
+        "explanation": "Ja → mówię"
+    },
+    {
+        "id": "mix_12",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ty ___ po hiszpańsku.\"",
+        "choices": ["mówisz", "mówię", "mówi", "mówią"],
+        "answer": "mówisz",
+        "explanation": "Ty → mówisz"
+    },
+    {
+        "id": "mix_13",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"On ___ w Warszawie.\"",
+        "choices": ["mieszka", "mieszkam", "mieszkasz", "mieszkają"],
+        "answer": "mieszka",
+        "explanation": "On → mieszka"
+    },
+    {
+        "id": "mix_14",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"My ___ do szkoły.\"",
+        "choices": ["idziemy", "idę", "idziesz", "idą"],
+        "answer": "idziemy",
+        "explanation": "My → idziemy"
+    },
+    {
+        "id": "mix_15",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Wy ___ bardzo późno.\"",
+        "choices": ["dzwonicie", "dzwonię", "dzwonisz", "dzwoni"],
+        "answer": "dzwonicie",
+        "explanation": "Wy → dzwonicie (koniugacja II)"
+    },
+    {
+        "id": "mix_16",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ja ___ przez okno.\"",
+        "choices": ["patrzę", "patrzysz", "patrzy", "patrzymy"],
+        "answer": "patrzę",
+        "explanation": "Ja → patrzę (koniugacja II)"
+    },
+    {
+        "id": "n1",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"mięso\"?",
+        "answer": "carne",
+        "explanation": "mięso = carne"
+    },
+    {
+        "id": "n2",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ryba\"?",
+        "answer": "pescado",
+        "explanation": "ryba = pescado"
+    },
+    {
+        "id": "n3",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"warzywa\"?",
+        "answer": "verduras",
+        "explanation": "warzywa = verduras"
+    },
+    {
+        "id": "n4",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"owoc\"?",
+        "answer": "fruta",
+        "explanation": "owoc = fruta"
+    },
+    {
+        "id": "n5",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"śniadanie\"?",
+        "answer": "desayuno",
+        "explanation": "śniadanie = desayuno"
+    },
+
+    {
+        "id": "n6",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jem śniadanie\"",
+        "answer": "desayuno",
+        "explanation": "jem = como, śniadanie = desayuno"
+    },
+    {
+        "id": "n7",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Piję wodę\"",
+        "answer": "bebo agua",
+        "explanation": "piję = bebo, wodę = agua"
+    },
+    {
+        "id": "n8",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Kupuję chleb\"",
+        "answer": "compro pan",
+        "explanation": "kupuję = compro, chleb = pan"
+    },
+    {
+        "id": "n9",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Idę do sklepu\"",
+        "answer": "voy a la tienda",
+        "explanation": "idę = voy (a pie), do sklepu = a la tienda"
+    },
+    {
+        "id": "n10",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Wracam do domu\"",
+        "answer": "vuelvo a casa",
+        "explanation": "wracam = vuelvo, do domu = a casa"
+    },
+
+    {
+        "id": "n11",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ja ___ kawę\" (Yo bebo café)",
+        "answer": "piję",
+        "explanation": "Ja piję kawę"
+    },
+    {
+        "id": "n12",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ty ___ obiad\" (Tú comes el almuerzo)",
+        "answer": "jesz",
+        "explanation": "Ty jesz obiad"
+    },
+    {
+        "id": "n13",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"On ___ do pracy\" (Él va al trabajo)",
+        "answer": "idzie",
+        "explanation": "On idzie do pracy"
+    },
+    {
+        "id": "n14",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"My ___ w domu\" (Nosotros estamos en casa)",
+        "answer": "jesteśmy",
+        "explanation": "My jesteśmy w domu"
+    },
+    {
+        "id": "n15",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Oni ___ telewizję\" (Ellos ven la televisión)",
+        "answer": "oglądają",
+        "explanation": "Oni oglądają telewizję"
+    },
+
+    {
+        "id": "n16",
+        "type": "declension",
+        "prompt": "Genitivo: \"woda\" → (nie ma) ____",
+        "answer": "wody",
+        "explanation": "nie ma wody"
+    },
+    {
+        "id": "n17",
+        "type": "declension",
+        "prompt": "Acusativo: \"kawa\" → (piję) ____",
+        "answer": "kawę",
+        "explanation": "piję kawę"
+    },
+    {
+        "id": "n18",
+        "type": "declension",
+        "prompt": "Locativo: \"sklep\" → (w) ____",
+        "answer": "sklepie",
+        "explanation": "w sklepie"
+    },
+    {
+        "id": "n19",
+        "type": "declension",
+        "prompt": "Instrumental: \"herbata\" → (z) ____",
+        "answer": "herbatą",
+        "explanation": "z herbatą"
+    },
+    {
+        "id": "n20",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"jabłko\" → (dużo) ____",
+        "answer": "jabłek",
+        "explanation": "dużo jabłek"
+    },
+
+    {
+        "id": "n21",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"pogoda\"?",
+        "answer": "clima",
+        "explanation": "pogoda = clima"
+    },
+    {
+        "id": "n22",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"zimno\"?",
+        "answer": "frío",
+        "explanation": "zimno = frío"
+    },
+    {
+        "id": "n23",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ciepło\"?",
+        "answer": "calor",
+        "explanation": "ciepło = calor / templado"
+    },
+    {
+        "id": "n24",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"deszcz\"?",
+        "answer": "lluvia",
+        "explanation": "deszcz = lluvia"
+    },
+    {
+        "id": "n25",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"śnieg\"?",
+        "answer": "nieve",
+        "explanation": "śnieg = nieve"
+    },
+    {
+        "id": "mix_17",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ty ___ papierosy?\"",
+        "choices": ["palisz", "palę", "pali", "palimy"],
+        "answer": "palisz",
+        "explanation": "Ty → palisz (koniugacja II)"
+    },
+    {
+        "id": "mix_18",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Oni ___ do pracy piechotą.\"",
+        "choices": ["chodzą", "chodzę", "chodzisz", "chodzi"],
+        "answer": "chodzą",
+        "explanation": "Oni → chodzą (koniugacja II)"
+    },
+    {
+        "id": "mix_19",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"Mój sąsiad jest bardzo ___.\"",
+        "choices": ["przyjazny", "zielony", "długi", "słodki"],
+        "answer": "przyjazny",
+        "explanation": "bardzo przyjazny"
+    },
+    {
+        "id": "mix_20",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"To była ___ noc.\"",
+        "choices": ["długa", "długi", "długie", "długą"],
+        "answer": "długa",
+        "explanation": "noc (żeńska) → długa"
+    },
+
+    {
+        "id": "mix_21",
+        "type": "declension",
+        "prompt": "Genitivo: \"kot\" → (nie ma) ____",
+        "choices": ["kota", "kot", "kotem", "kocie"],
+        "answer": "kota",
+        "explanation": "Genitivo singular: nie ma kota"
+    },
+    {
+        "id": "mix_22",
+        "type": "declension",
+        "prompt": "Genitivo: \"pies\" → (nie ma) ____",
+        "choices": ["psa", "pies", "psem", "psie"],
+        "answer": "psa",
+        "explanation": "Genitivo singular: nie ma psa"
+    },
+    {
+        "id": "mix_23",
+        "type": "declension",
+        "prompt": "Locativo: \"Polska\" → (w) ____",
+        "choices": ["Polsce", "Polskę", "Polski", "Polską"],
+        "answer": "Polsce",
+        "explanation": "w Polsce (locativo)"
+    },
+    {
+        "id": "mix_24",
+        "type": "declension",
+        "prompt": "Locativo: \"Warszawa\" → (w) ____",
+        "choices": ["Warszawie", "Warszawę", "Warszawy", "Warszawą"],
+        "answer": "Warszawie",
+        "explanation": "w Warszawie (locativo)"
+    },
+    {
+        "id": "mix_25",
+        "type": "declension",
+        "prompt": "Instrumental: \"kawa\" → (z) ____",
+        "choices": ["kawą", "kawę", "kawy", "kawie"],
+        "answer": "kawą",
+        "explanation": "z kawą (instrumental)"
+    },
+    {
+        "id": "mix_26",
+        "type": "declension",
+        "prompt": "Acusativo: \"książka\" → (czytam) ____",
+        "choices": ["książkę", "książki", "książką", "książce"],
+        "answer": "książkę",
+        "explanation": "czytam książkę (acusativo)"
+    },
+    {
+        "id": "mix_27",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"kobieta\" → (dużo) ____",
+        "choices": ["kobiet", "kobiety", "kobietą", "kobiecie"],
+        "answer": "kobiet",
+        "explanation": "dużo kobiet (genitivo plural)"
+    },
+    {
+        "id": "mix_28",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"książka\" → (dużo) ____",
+        "choices": ["książek", "książki", "książkami", "książce"],
+        "answer": "książek",
+        "explanation": "dużo książek"
+    },
+    {
+        "id": "mix_29",
+        "type": "declension",
+        "prompt": "Locativo: \"szkoła\" → (w) ____",
+        "choices": ["szkole", "szkołę", "szkoły", "szkołą"],
+        "answer": "szkole",
+        "explanation": "w szkole"
+    },
+    {
+        "id": "mix_30",
+        "type": "declension",
+        "prompt": "Instrumental: \"autobus\" → (jadę) ____",
+        "choices": ["autobusem", "autobus", "autobusu", "autobusie"],
+        "answer": "autobusem",
+        "explanation": "jadę autobusem (instrumental)"
+    },
+
+    {
+        "id": "mix_31",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mieszkam w Polsce\"",
+        "choices": [
+            "vivo en Polonia",
+            "voy a Polonia",
+            "soy de Polonia",
+            "estoy en casa"
+        ],
+        "answer": "vivo en Polonia",
+        "explanation": "Mieszkam = vivo"
+    },
+    {
+        "id": "mix_32",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Idę do domu\"",
+        "choices": [
+            "voy a casa",
+            "vivo en casa",
+            "estoy en casa",
+            "vengo de casa"
+        ],
+        "answer": "voy a casa",
+        "explanation": "Idę = voy (a pie)"
+    },
+    {
+        "id": "mix_33",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Czytam książkę\"",
+        "choices": [
+            "leo un libro",
+            "escribo un libro",
+            "tengo un libro",
+            "vendo un libro"
+        ],
+        "answer": "leo un libro",
+        "explanation": "Czytam = leo"
+    },
+    {
+        "id": "mix_34",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie rozumiem\"",
+        "choices": ["no entiendo", "entiendo", "no sé", "no puedo"],
+        "answer": "no entiendo",
+        "explanation": "Nie = no, rozumiem = entiendo"
+    },
+    {
+        "id": "mix_35",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam czas\"",
+        "choices": [
+            "tengo tiempo",
+            "no tengo tiempo",
+            "tengo trabajo",
+            "no tengo trabajo"
+        ],
+        "answer": "tengo tiempo",
+        "explanation": "Mam = tengo, czas = tiempo"
+    },
+
+    {
+        "id": "mix_36",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"okno\"?",
+        "choices": ["ventana", "puerta", "techo", "suelo"],
+        "answer": "ventana",
+        "explanation": "okno = ventana"
+    },
+    {
+        "id": "mix_37",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"drzwi\"?",
+        "choices": ["puerta", "cama", "silla", "mesa"],
+        "answer": "puerta",
+        "explanation": "drzwi = puerta"
+    },
+    {
+        "id": "mix_38",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"stół\"?",
+        "choices": ["mesa", "silla", "plato", "cuchara"],
+        "answer": "mesa",
+        "explanation": "stół = mesa"
+    },
+    {
+        "id": "mix_39",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"krzesło\"?",
+        "choices": ["silla", "mesa", "armario", "cama"],
+        "answer": "silla",
+        "explanation": "krzesło = silla"
+    },
+    {
+        "id": "mix_40",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"łóżko\"?",
+        "choices": ["cama", "baño", "cocina", "salón"],
+        "answer": "cama",
+        "explanation": "łóżko = cama"
+    },
+
+    {
+        "id": "mix_41",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ja ___ obiad.\"",
+        "choices": ["robię", "robisz", "robi", "robimy"],
+        "answer": "robię",
+        "explanation": "Ja → robię (koniugacja II)"
+    },
+    {
+        "id": "mix_42",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Wy ___ polskiego od roku?\"",
+        "choices": ["uczycie się", "uczę się", "uczysz się", "uczy się"],
+        "answer": "uczycie się",
+        "explanation": "Wy → uczycie się"
+    },
+    {
+        "id": "mix_43",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ona ___ do Londynu jutro.\"",
+        "choices": ["leci", "lecę", "lecisz", "lecimy"],
+        "answer": "leci",
+        "explanation": "Ona → leci (lecieć)"
+    },
+    {
+        "id": "mix_44",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"My ___ kartą.\"",
+        "choices": ["płacimy", "płacę", "płacisz", "płaci"],
+        "answer": "płacimy",
+        "explanation": "My → płacimy"
+    },
+    {
+        "id": "mix_45",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"Kasia to ___ dziewczyna.\"",
+        "choices": ["miła", "miły", "miłe", "mili"],
+        "answer": "miła",
+        "explanation": "dziewczyna (żeńska) → miła"
+    },
+
+    {
+        "id": "mix_46",
+        "type": "declension",
+        "prompt": "Acusativo: \"kawa\" → (piję) ____",
+        "choices": ["kawę", "kawy", "kawą", "kawie"],
+        "answer": "kawę",
+        "explanation": "piję kawę"
+    },
+    {
+        "id": "mix_47",
+        "type": "declension",
+        "prompt": "Genitivo: \"czas\" → (nie mam) ____",
+        "choices": ["czasu", "czas", "czasem", "czasie"],
+        "answer": "czasu",
+        "explanation": "nie mam czasu"
+    },
+    {
+        "id": "mix_48",
+        "type": "declension",
+        "prompt": "Instrumental: \"pies\" → (idę z) ____",
+        "choices": ["psem", "psa", "pies", "psie"],
+        "answer": "psem",
+        "explanation": "idę z psem"
+    },
+    {
+        "id": "sp1",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"casa\"",
+        "answer": "dom",
+        "explanation": "casa se escribe en polaco: dom"
+    },
+    {
+        "id": "sp2",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"agua\"",
+        "answer": "woda",
+        "explanation": "agua se escribe en polaco: woda"
+    },
+    {
+        "id": "sp3",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"pan\"",
+        "answer": "chleb",
+        "explanation": "pan se escribe en polaco: chleb"
+    },
+    {
+        "id": "sp4",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"leche\"",
+        "answer": "mleko",
+        "explanation": "leche se escribe en polaco: mleko"
+    },
+    {
+        "id": "sp5",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"café\"",
+        "answer": "kawa",
+        "explanation": "café se escribe en polaco: kawa"
+    },
+
+    {
+        "id": "sp6",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"té\"",
+        "answer": "herbata",
+        "explanation": "té se escribe en polaco: herbata"
+    },
+    {
+        "id": "sp7",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"libro\"",
+        "answer": "książka",
+        "explanation": "libro se escribe en polaco: książka"
+    },
+    {
+        "id": "sp8",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"escuela\"",
+        "answer": "szkoła",
+        "explanation": "escuela se escribe en polaco: szkoła"
+    },
+    {
+        "id": "sp9",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"trabajo\"",
+        "answer": "praca",
+        "explanation": "trabajo se escribe en polaco: praca"
+    },
+    {
+        "id": "sp10",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ciudad\"",
+        "answer": "miasto",
+        "explanation": "ciudad se escribe en polaco: miasto"
+    },
+
+    {
+        "id": "sp11",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo soy\"",
+        "answer": "jestem",
+        "explanation": "yo soy / estoy se escribe en polaco: jestem"
+    },
+    {
+        "id": "sp12",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tú eres\"",
+        "answer": "jesteś",
+        "explanation": "tú eres se escribe en polaco: jesteś"
+    },
+    {
+        "id": "sp13",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"él es\"",
+        "answer": "jest",
+        "explanation": "él es se escribe en polaco: jest"
+    },
+    {
+        "id": "sp14",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nosotros somos\"",
+        "answer": "jesteśmy",
+        "explanation": "nosotros somos se escribe en polaco: jesteśmy"
+    },
+    {
+        "id": "sp15",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ellos son\"",
+        "answer": "są",
+        "explanation": "ellos son se escribe en polaco: są"
+    },
+
+    {
+        "id": "sp16",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo tengo\"",
+        "answer": "mam",
+        "explanation": "yo tengo se escribe en polaco: mam"
+    },
+    {
+        "id": "sp17",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tú tienes\"",
+        "answer": "masz",
+        "explanation": "tú tienes se escribe en polaco: masz"
+    },
+    {
+        "id": "sp18",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"él tiene\"",
+        "answer": "ma",
+        "explanation": "él tiene se escribe en polaco: ma"
+    },
+    {
+        "id": "sp19",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nosotros tenemos\"",
+        "answer": "mamy",
+        "explanation": "nosotros tenemos se escribe en polaco: mamy"
+    },
+    {
+        "id": "sp20",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ellos tienen\"",
+        "answer": "mają",
+        "explanation": "ellos tienen se escribe en polaco: mają"
+    },
+
+    {
+        "id": "sp21",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo voy\"",
+        "answer": "idę",
+        "explanation": "yo voy (a pie) se escribe en polaco: idę"
+    },
+    {
+        "id": "sp22",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tú vas\"",
+        "answer": "idziesz",
+        "explanation": "tú vas se escribe en polaco: idziesz"
+    },
+    {
+        "id": "sp23",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"él va\"",
+        "answer": "idzie",
+        "explanation": "él va se escribe en polaco: idzie"
+    },
+    {
+        "id": "sp24",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nosotros vamos\"",
+        "answer": "idziemy",
+        "explanation": "nosotros vamos se escribe en polaco: idziemy"
+    },
+    {
+        "id": "sp25",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ellos van\"",
+        "answer": "idą",
+        "explanation": "ellos van se escribe en polaco: idą"
+    },
+
+    {
+        "id": "sp26",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo vivo\"",
+        "answer": "mieszkam",
+        "explanation": "yo vivo se escribe en polaco: mieszkam"
+    },
+    {
+        "id": "sp27",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tú vives\"",
+        "answer": "mieszkasz",
+        "explanation": "tú vives se escribe en polaco: mieszkasz"
+    },
+    {
+        "id": "sp28",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"él vive\"",
+        "answer": "mieszka",
+        "explanation": "él vive se escribe en polaco: mieszka"
+    },
+    {
+        "id": "sp29",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nosotros vivimos\"",
+        "answer": "mieszkamy",
+        "explanation": "nosotros vivimos se escribe en polaco: mieszkamy"
+    },
+    {
+        "id": "sp30",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ellos viven\"",
+        "answer": "mieszkają",
+        "explanation": "ellos viven se escribe en polaco: mieszkają"
+    },
+
+    {
+        "id": "sp31",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo bebo\"",
+        "answer": "piję",
+        "explanation": "yo bebo se escribe en polaco: piję"
+    },
+    {
+        "id": "sp32",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tú comes\"",
+        "answer": "jesz",
+        "explanation": "tú comes se escribe en polaco: jesz"
+    },
+    {
+        "id": "sp33",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"él trabaja\"",
+        "answer": "pracuje",
+        "explanation": "él trabaja se escribe en polaco: pracuje"
+    },
+    {
+        "id": "sp34",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nosotros leemos\"",
+        "answer": "czytamy",
+        "explanation": "nosotros leemos se escribe en polaco: czytamy"
+    },
+    {
+        "id": "sp35",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ellos escuchan\"",
+        "answer": "słuchają",
+        "explanation": "ellos escuchan se escribe en polaco: słuchają"
+    },
+
+    {
+        "id": "sp36",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"hoy\"",
+        "answer": "dzisiaj",
+        "explanation": "hoy se escribe en polaco: dzisiaj"
+    },
+    {
+        "id": "sp37",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"mañana\"",
+        "answer": "jutro",
+        "explanation": "mañana se escribe en polaco: jutro"
+    },
+    {
+        "id": "sp38",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"ayer\"",
+        "answer": "wczoraj",
+        "explanation": "ayer se escribe en polaco: wczoraj"
+    },
+    {
+        "id": "sp39",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"siempre\"",
+        "answer": "zawsze",
+        "explanation": "siempre se escribe en polaco: zawsze"
+    },
+    {
+        "id": "sp40",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"nunca\"",
+        "answer": "nigdy",
+        "explanation": "nunca se escribe en polaco: nigdy"
+    },
+
+    {
+        "id": "sp41",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"a veces\"",
+        "answer": "czasami",
+        "explanation": "a veces se escribe en polaco: czasami"
+    },
+    {
+        "id": "sp42",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"rápidamente\"",
+        "answer": "szybko",
+        "explanation": "rápidamente se escribe en polaco: szybko"
+    },
+    {
+        "id": "sp43",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"lentamente\"",
+        "answer": "wolno",
+        "explanation": "lentamente se escribe en polaco: wolno"
+    },
+    {
+        "id": "sp44",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"bien\"",
+        "answer": "dobrze",
+        "explanation": "bien se escribe en polaco: dobrze"
+    },
+    {
+        "id": "sp45",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"mal\"",
+        "answer": "źle",
+        "explanation": "mal se escribe en polaco: źle"
+    },
+
+    {
+        "id": "sp46",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"gracias\"",
+        "answer": "dziękuję",
+        "explanation": "gracias se escribe en polaco: dziękuję"
+    },
+    {
+        "id": "sp47",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"por favor\"",
+        "answer": "proszę",
+        "explanation": "por favor se escribe en polaco: proszę"
+    },
+    {
+        "id": "sp48",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"perdón\"",
+        "answer": "przepraszam",
+        "explanation": "perdón se escribe en polaco: przepraszam"
+    },
+    {
+        "id": "sp49",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"sí\"",
+        "answer": "tak",
+        "explanation": "sí se escribe en polaco: tak"
+    },
+    {
+        "id": "sp50",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"no\"",
+        "answer": "nie",
+        "explanation": "no se escribe en polaco: nie"
+    },
+    {
+        "id": "mix_49",
+        "type": "declension",
+        "prompt": "Locativo: \"pokój\" → (w) ____",
+        "choices": ["pokoju", "pokój", "pokojem", "pokoje"],
+        "answer": "pokoju",
+        "explanation": "w pokoju"
+    },
+    {
+        "id": "mix_50",
+        "type": "declension",
+        "prompt": "Genitivo: \"sklep\" → (idę do) ____",
+        "choices": ["sklepu", "sklep", "sklepem", "sklepie"],
+        "answer": "sklepu",
+        "explanation": "do sklepu (genitivo tras 'do')"
+    },
+
+    {
+        "id": "mix_51",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Oni chodzą do pracy\"",
+        "choices": [
+            "ellos van al trabajo",
+            "ellos trabajan hoy",
+            "ellos están cansados",
+            "ellos viven en Polonia"
+        ],
+        "answer": "ellos van al trabajo",
+        "explanation": "chodzą = van (caminan)"
+    },
+    {
+        "id": "mix_52",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"My płacimy kartą\"",
+        "choices": [
+            "pagamos con tarjeta",
+            "pago con tarjeta",
+            "pagas con tarjeta",
+            "pagan con tarjeta"
+        ],
+        "answer": "pagamos con tarjeta",
+        "explanation": "My = nosotros"
+    },
+    {
+        "id": "mix_53",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Ty zawsze dzwonisz późno\"",
+        "choices": [
+            "tú siempre llamas tarde",
+            "tú nunca llamas",
+            "yo llamo tarde",
+            "ellos llaman tarde"
+        ],
+        "answer": "tú siempre llamas tarde",
+        "explanation": "Ty = tú, dzwonisz = llamas"
+    },
+    {
+        "id": "mix_54",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie mam czasu\"",
+        "choices": [
+            "no tengo tiempo",
+            "tengo tiempo",
+            "no tengo casa",
+            "no tengo trabajo"
+        ],
+        "answer": "no tengo tiempo",
+        "explanation": "Negación + genitivo: czasu"
+    },
+    {
+        "id": "mix_55",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jesteśmy w domu\"",
+        "choices": [
+            "estamos en casa",
+            "soy de casa",
+            "vamos a casa",
+            "vivo en casa"
+        ],
+        "answer": "estamos en casa",
+        "explanation": "Jesteśmy = estamos"
+    },
+
+    {
+        "id": "mix_56",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dzisiaj\"?",
+        "choices": ["hoy", "ayer", "mañana", "siempre"],
+        "answer": "hoy",
+        "explanation": "dzisiaj = hoy"
+    },
+    {
+        "id": "mix_57",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"jutro\"?",
+        "choices": ["mañana", "hoy", "ayer", "nunca"],
+        "answer": "mañana",
+        "explanation": "jutro = mañana"
+    },
+    {
+        "id": "mix_58",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"znowu\"?",
+        "choices": ["otra vez", "nunca", "siempre", "pronto"],
+        "answer": "otra vez",
+        "explanation": "znowu = otra vez"
+    },
+    {
+        "id": "mix_59",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dlaczego\"?",
+        "choices": ["por qué", "cuándo", "dónde", "quién"],
+        "answer": "por qué",
+        "explanation": "dlaczego = por qué"
+    },
+    {
+        "id": "mix_60",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ponieważ\"?",
+        "choices": ["porque", "pero", "entonces", "aunque"],
+        "answer": "porque",
+        "explanation": "ponieważ = porque"
+    },
+
+    {
+        "id": "mix_61",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Moja mama ___ garaż w weekend.\"",
+        "choices": ["sprząta", "sprzątam", "sprzątamy", "sprzątacie"],
+        "answer": "sprząta",
+        "explanation": "Ona → sprząta"
+    },
+    {
+        "id": "mx1",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"amigo\"",
+        "answer": "przyjaciel",
+        "explanation": "amigo se escribe en polaco: przyjaciel"
+    },
+    {
+        "id": "mx2",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"familia\"",
+        "answer": "rodzina",
+        "explanation": "familia se escribe en polaco: rodzina"
+    },
+    {
+        "id": "mx3",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"ciudad\"?",
+        "answer": "miasto",
+        "explanation": "ciudad en polaco: miasto"
+    },
+    {
+        "id": "mx4",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"trabajo\"?",
+        "answer": "praca",
+        "explanation": "trabajo en polaco: praca"
+    },
+    {
+        "id": "mx5",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"escuela\"?",
+        "answer": "szkoła",
+        "explanation": "escuela en polaco: szkoła"
+    },
+
+    {
+        "id": "mx6",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Yo vivo en Polonia\" → \"Ja ___ w Polsce\"",
+        "answer": "mieszkam",
+        "explanation": "Ja mieszkam w Polsce"
+    },
+    {
+        "id": "mx7",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Yo trabajo hoy\" → \"Ja ___ dzisiaj\"",
+        "answer": "pracuję",
+        "explanation": "Ja pracuję dzisiaj"
+    },
+    {
+        "id": "mx8",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Nosotros bebemos café\" → \"My ___ kawę\"",
+        "answer": "pijemy",
+        "explanation": "My pijemy kawę"
+    },
+    {
+        "id": "mx9",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ellos comen pan\" → \"Oni ___ chleb\"",
+        "answer": "jedzą",
+        "explanation": "Oni jedzą chleb"
+    },
+    {
+        "id": "mx10",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ella lee un libro\" → \"Ona ___ książkę\"",
+        "answer": "czyta",
+        "explanation": "Ona czyta książkę"
+    },
+
+    {
+        "id": "mx11",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"mañana\" en polaco?",
+        "choices": ["jutro", "dzisiaj", "wczoraj", "zawsze"],
+        "answer": "jutro",
+        "explanation": "mañana = jutro"
+    },
+    {
+        "id": "mx12",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ayer\" en polaco?",
+        "choices": ["jutro", "wczoraj", "dzisiaj", "nigdy"],
+        "answer": "wczoraj",
+        "explanation": "ayer = wczoraj"
+    },
+    {
+        "id": "mx13",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"siempre\" en polaco?",
+        "choices": ["czasami", "zawsze", "rzadko", "nigdy"],
+        "answer": "zawsze",
+        "explanation": "siempre = zawsze"
+    },
+    {
+        "id": "mx14",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"nunca\" en polaco?",
+        "choices": ["nigdy", "zawsze", "często", "teraz"],
+        "answer": "nigdy",
+        "explanation": "nunca = nigdy"
+    },
+    {
+        "id": "mx15",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"a veces\" en polaco?",
+        "choices": ["zawsze", "rzadko", "czasami", "wcześnie"],
+        "answer": "czasami",
+        "explanation": "a veces = czasami"
+    },
+
+    {
+        "id": "mx16",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo entiendo\"",
+        "answer": "rozumiem",
+        "explanation": "yo entiendo se escribe en polaco: rozumiem"
+    },
+    {
+        "id": "mx17",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"no entiendo\"",
+        "answer": "nie rozumiem",
+        "explanation": "no entiendo se escribe en polaco: nie rozumiem"
+    },
+    {
+        "id": "mx18",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tengo tiempo\"",
+        "answer": "mam czas",
+        "explanation": "tengo tiempo se escribe en polaco: mam czas"
+    },
+    {
+        "id": "mx19",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"no tengo tiempo\"",
+        "answer": "nie mam czasu",
+        "explanation": "negación + genitivo: czasu"
+    },
+    {
+        "id": "mx20",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"estoy en casa\"",
+        "answer": "jestem w domu",
+        "explanation": "estoy = jestem, en casa = w domu"
+    },
+
+    {
+        "id": "mx21",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Yo voy a casa\" → \"Ja ___ do domu\"",
+        "answer": "idę",
+        "explanation": "Ja idę do domu"
+    },
+    {
+        "id": "mx22",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Tú hablas polaco\" → \"Ty ___ po polsku\"",
+        "answer": "mówisz",
+        "explanation": "Ty mówisz po polsku"
+    },
+    {
+        "id": "mx23",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Nosotros vivimos aquí\" → \"My ___ tutaj\"",
+        "answer": "mieszkamy",
+        "explanation": "My mieszkamy tutaj"
+    },
+    {
+        "id": "mx24",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ellos trabajan mucho\" → \"Oni ___ dużo\"",
+        "answer": "pracują",
+        "explanation": "Oni pracują dużo"
+    },
+    {
+        "id": "mx25",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ella bebe agua\" → \"Ona ___ wodę\"",
+        "answer": "pije",
+        "explanation": "Ona pije wodę"
+    },
+
+    {
+        "id": "mx26",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"frío\"?",
+        "answer": "zimno",
+        "explanation": "frío en polaco: zimno"
+    },
+    {
+        "id": "mx27",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"calor\"?",
+        "answer": "ciepło",
+        "explanation": "calor en polaco: ciepło"
+    },
+    {
+        "id": "mx28",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"lluvia\"?",
+        "answer": "deszcz",
+        "explanation": "lluvia en polaco: deszcz"
+    },
+    {
+        "id": "mx29",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"nieve\"?",
+        "answer": "śnieg",
+        "explanation": "nieve en polaco: śnieg"
+    },
+    {
+        "id": "mx30",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"tienda\"?",
+        "answer": "sklep",
+        "explanation": "tienda en polaco: sklep"
+    },
+
+    {
+        "id": "mx31",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"yo trabajo\" en polaco?",
+        "choices": ["pracuję", "pracujesz", "pracuje", "pracują"],
+        "answer": "pracuję",
+        "explanation": "yo → pracuję"
+    },
+    {
+        "id": "mx32",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"nosotros vamos\" en polaco?",
+        "choices": ["idę", "idą", "idziemy", "idziesz"],
+        "answer": "idziemy",
+        "explanation": "nosotros → idziemy"
+    },
+    {
+        "id": "mx33",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ellos viven\" en polaco?",
+        "choices": ["mieszkam", "mieszka", "mieszkają", "mieszkasz"],
+        "answer": "mieszkają",
+        "explanation": "ellos → mieszkają"
+    },
+    {
+        "id": "mx34",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ella lee\" en polaco?",
+        "choices": ["czytam", "czytasz", "czyta", "czytamy"],
+        "answer": "czyta",
+        "explanation": "ella → czyta"
+    },
+    {
+        "id": "mx35",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ellos beben\" en polaco?",
+        "choices": ["piję", "pije", "pijemy", "piją"],
+        "answer": "piją",
+        "explanation": "ellos → piją"
+    },
+    {
+        "id": "mix_62",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Moje dzieci ___ cierpliwie.\"",
+        "choices": ["czekają", "czekam", "czekasz", "czeka"],
+        "answer": "czekają",
+        "explanation": "one/oni → czekają"
+    },
+    {
+        "id": "mix_63",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Pan Marek ___ o zdrową dietę.\"",
+        "choices": ["dba", "dbam", "dbasz", "dbają"],
+        "answer": "dba",
+        "explanation": "On → dba"
+    },
+    {
+        "id": "mix_64",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ci sąsiedzi ___ od wielu lat.\"",
+        "choices": ["znają się", "znam się", "znasz się", "zna się"],
+        "answer": "znają się",
+        "explanation": "Oni → znają się"
+    },
+    {
+        "id": "mix_65",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ja ___ jutro ważne spotkanie.\"",
+        "choices": ["mam", "ma", "masz", "mają"],
+        "answer": "mam",
+        "explanation": "Ja → mam"
+    },
+
+    {
+        "id": "mix_66",
+        "type": "declension",
+        "prompt": "Acusativo: \"herbata\" → (piję) ____",
+        "choices": ["herbatę", "herbaty", "herbatą", "herbacie"],
+        "answer": "herbatę",
+        "explanation": "piję herbatę"
+    },
+    {
+        "id": "mix_67",
+        "type": "declension",
+        "prompt": "Genitivo: \"woda\" → (nie ma) ____",
+        "choices": ["wody", "wodę", "wodą", "wodzie"],
+        "answer": "wody",
+        "explanation": "nie ma wody"
+    },
+    {
+        "id": "mix_68",
+        "type": "declension",
+        "prompt": "Instrumental: \"miasto\" → (jestem pod) ____ (forma: w mieście / miastem?)",
+        "choices": ["miastem", "miasta", "mieście", "miasto"],
+        "answer": "miastem",
+        "explanation": "Instrumental: miastem (np. 'jestem przed miastem')"
+    },
+    {
+        "id": "mix_69",
+        "type": "declension",
+        "prompt": "Locativo: \"miasto\" → (w) ____",
+        "choices": ["mieście", "miasta", "miastem", "miasto"],
+        "answer": "mieście",
+        "explanation": "w mieście"
+    },
+    {
+        "id": "mix_70",
+        "type": "declension",
+        "prompt": "Genitivo: \"Warszawa\" → (z) ____ (Jestem z ...)",
+        "choices": ["Warszawy", "Warszawie", "Warszawą", "Warszawę"],
+        "answer": "Warszawy",
+        "explanation": "Jestem z Warszawy"
+    },
+
+    {
+        "id": "mix_71",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Czy ty palisz papierosy?\"",
+        "choices": [
+            "¿Fumas cigarrillos?",
+            "¿Bebes café?",
+            "¿Vas a casa?",
+            "¿Lees un libro?"
+        ],
+        "answer": "¿Fumas cigarrillos?",
+        "explanation": "palisz = fumas"
+    },
+    {
+        "id": "mix_72",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Ja patrzę na tablicę\"",
+        "choices": [
+            "yo miro la pizarra",
+            "yo escribo en la pizarra",
+            "yo leo la pizarra",
+            "yo compro una pizarra"
+        ],
+        "answer": "yo miro la pizarra",
+        "explanation": "patrzę = miro"
+    },
+    {
+        "id": "mix_73",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"My śpimy przy otwartym oknie\"",
+        "choices": [
+            "dormimos con la ventana abierta",
+            "dormimos en la cocina",
+            "miramos por la ventana",
+            "vamos a la ventana"
+        ],
+        "answer": "dormimos con la ventana abierta",
+        "explanation": "śpimy = dormimos"
+    },
+    {
+        "id": "mix_74",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Oni patrzą na mapę\"",
+        "choices": [
+            "ellos miran el mapa",
+            "ellos compran el mapa",
+            "ellos viven en el mapa",
+            "ellos escriben el mapa"
+        ],
+        "answer": "ellos miran el mapa",
+        "explanation": "patrzą = miran"
+    },
+    {
+        "id": "mix_75",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Wy uczycie się polskiego\"",
+        "choices": [
+            "ustedes aprenden polaco",
+            "ustedes enseñan polaco",
+            "ustedes hablan español",
+            "ustedes trabajan hoy"
+        ],
+        "answer": "ustedes aprenden polaco",
+        "explanation": "uczycie się = aprenden (ustedes)"
+    },
+
+    {
+        "id": "mix_76",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"mapa\"?",
+        "choices": ["mapa", "móvil", "ropa", "cartera"],
+        "answer": "mapa",
+        "explanation": "mapa = mapa"
+    },
+    {
+        "id": "mix_77",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"tablica\"?",
+        "choices": ["pizarra", "silla", "espejo", "puerta"],
+        "answer": "pizarra",
+        "explanation": "tablica = pizarra / tablero"
+    },
+    {
+        "id": "mix_78",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"prezent\"?",
+        "choices": ["regalo", "precio", "viaje", "problema"],
+        "answer": "regalo",
+        "explanation": "prezent = regalo"
+    },
+    {
+        "id": "mix_79",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"spotkanie\"?",
+        "choices": ["reunión", "café", "carta", "amigo"],
+        "answer": "reunión",
+        "explanation": "spotkanie = reunión / encuentro"
+    },
+    {
+        "id": "mix_80",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"współpraca\"?",
+        "choices": ["colaboración", "competencia", "vacaciones", "clase"],
+        "answer": "colaboración",
+        "explanation": "współpraca = colaboración"
+    },
+
+    {
+        "id": "mix_81",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"Ania jest ___\"",
+        "choices": [
+            "inteligentna",
+            "inteligentny",
+            "inteligentne",
+            "inteligentni"
+        ],
+        "answer": "inteligentna",
+        "explanation": "Ania (żeńska) → inteligentna"
+    },
+    {
+        "id": "mix_82",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"Tomek jest ___\"",
+        "choices": ["odważny", "odważna", "odważne", "odważni"],
+        "answer": "odważny",
+        "explanation": "Tomek (męski) → odważny"
+    },
+    {
+        "id": "mix_83",
+        "type": "complete_sentence",
+        "prompt": "Wstaw przymiotnik: \"Zosia jest ___\"",
+        "choices": ["ambitna", "ambitny", "ambitne", "ambitni"],
+        "answer": "ambitna",
+        "explanation": "Zosia (żeńska) → ambitna"
+    },
+
+    {
+        "id": "nx1",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"coche\"",
+        "answer": "samochód",
+        "explanation": "coche en polaco: samochód"
+    },
+    {
+        "id": "nx2",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"autobús\"",
+        "answer": "autobus",
+        "explanation": "autobús en polaco: autobus"
+    },
+    {
+        "id": "nx3",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tren\"",
+        "answer": "pociąg",
+        "explanation": "tren en polaco: pociąg"
+    },
+    {
+        "id": "nx4",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"calle\"",
+        "answer": "ulica",
+        "explanation": "calle en polaco: ulica"
+    },
+    {
+        "id": "nx5",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"oficina\"",
+        "answer": "biuro",
+        "explanation": "oficina en polaco: biuro"
+    },
+
+    {
+        "id": "nx6",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"puerta\"?",
+        "answer": "drzwi",
+        "explanation": "puerta en polaco: drzwi"
+    },
+    {
+        "id": "nx7",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"ventana\"?",
+        "answer": "okno",
+        "explanation": "ventana en polaco: okno"
+    },
+    {
+        "id": "nx8",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"mesa\"?",
+        "answer": "stół",
+        "explanation": "mesa en polaco: stół"
+    },
+    {
+        "id": "nx9",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"silla\"?",
+        "answer": "krzesło",
+        "explanation": "silla en polaco: krzesło"
+    },
+    {
+        "id": "nx10",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"cama\"?",
+        "answer": "łóżko",
+        "explanation": "cama en polaco: łóżko"
+    },
+
+    {
+        "id": "nx11",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Yo compro pan\" → \"Ja ___ chleb\"",
+        "answer": "kupuję",
+        "explanation": "Ja kupuję chleb"
+    },
+    {
+        "id": "nx12",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Tú bebes té\" → \"Ty ___ herbatę\"",
+        "answer": "pijesz",
+        "explanation": "Ty pijesz herbatę"
+    },
+    {
+        "id": "nx13",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Él vive aquí\" → \"On ___ tutaj\"",
+        "answer": "mieszka",
+        "explanation": "On mieszka tutaj"
+    },
+    {
+        "id": "nx14",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Nosotros trabajamos mucho\" → \"My ___ dużo\"",
+        "answer": "pracujemy",
+        "explanation": "My pracujemy dużo"
+    },
+    {
+        "id": "nx15",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ellas estudian polaco\" → \"One ___ się polskiego\"",
+        "answer": "uczą",
+        "explanation": "One uczą się polskiego"
+    },
+
+    {
+        "id": "nx16",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"yo escribo\" en polaco?",
+        "choices": ["piszę", "piszesz", "pisze", "piszą"],
+        "answer": "piszę",
+        "explanation": "yo → piszę"
+    },
+    {
+        "id": "nx17",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"tú lees\" en polaco?",
+        "choices": ["czytam", "czytasz", "czyta", "czytają"],
+        "answer": "czytasz",
+        "explanation": "tú → czytasz"
+    },
+    {
+        "id": "nx18",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ellos comen\" en polaco?",
+        "choices": ["jem", "jesz", "je", "jedzą"],
+        "answer": "jedzą",
+        "explanation": "ellos → jedzą"
+    },
+    {
+        "id": "nx19",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"nosotros dormimos\" en polaco?",
+        "choices": ["śpię", "śpisz", "śpimy", "śpią"],
+        "answer": "śpimy",
+        "explanation": "nosotros → śpimy"
+    },
+    {
+        "id": "nx20",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ella escucha\" en polaco?",
+        "choices": ["słucham", "słuchasz", "słucha", "słuchają"],
+        "answer": "słucha",
+        "explanation": "ella → słucha"
+    },
+
+    {
+        "id": "nx21",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"mañana por la mañana\"",
+        "answer": "jutro rano",
+        "explanation": "mañana por la mañana = jutro rano"
+    },
+    {
+        "id": "nx22",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"por la noche\"",
+        "answer": "wieczorem",
+        "explanation": "por la noche = wieczorem"
+    },
+    {
+        "id": "nx23",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"todos los días\"",
+        "answer": "codziennie",
+        "explanation": "todos los días = codziennie"
+    },
+    {
+        "id": "nx24",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"fin de semana\"",
+        "answer": "weekend",
+        "explanation": "fin de semana = weekend"
+    },
+    {
+        "id": "nx25",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"vacaciones\"",
+        "answer": "wakacje",
+        "explanation": "vacaciones = wakacje"
+    },
+
+    {
+        "id": "nx26",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"tiempo (clima)\"?",
+        "answer": "pogoda",
+        "explanation": "tiempo/clima en polaco: pogoda"
+    },
+    {
+        "id": "nx27",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"dinero\"?",
+        "answer": "pieniądze",
+        "explanation": "dinero en polaco: pieniądze"
+    },
+    {
+        "id": "nx28",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"precio\"?",
+        "answer": "cena",
+        "explanation": "precio en polaco: cena"
+    },
+    {
+        "id": "nx29",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"regalo\"?",
+        "answer": "prezent",
+        "explanation": "regalo en polaco: prezent"
+    },
+    {
+        "id": "nx30",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"reunión\"?",
+        "answer": "spotkanie",
+        "explanation": "reunión en polaco: spotkanie"
+    },
+
+    {
+        "id": "nx31",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Tengo una pregunta\" → \"Mam ___ pytanie\"",
+        "answer": "jedno",
+        "explanation": "Mam jedno pytanie"
+    },
+    {
+        "id": "nx32",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"No tengo dinero\" → \"Nie mam ___\"",
+        "answer": "pieniędzy",
+        "explanation": "Nie mam pieniędzy"
+    },
+    {
+        "id": "nx33",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Pagamos con tarjeta\" → \"Płacimy ___\"",
+        "answer": "kartą",
+        "explanation": "Płacimy kartą"
+    },
+    {
+        "id": "nx34",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Voy en autobús\" → \"Jadę ___\"",
+        "answer": "autobusem",
+        "explanation": "Jadę autobusem"
+    },
+    {
+        "id": "nx35",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Él viene tarde\" → \"On ___ późno\"",
+        "answer": "przychodzi",
+        "explanation": "On przychodzi późno"
+    },
+
+    {
+        "id": "nx36",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"barato\" en polaco?",
+        "choices": ["drogi", "tani", "łatwy", "nowy"],
+        "answer": "tani",
+        "explanation": "barato = tani"
+    },
+    {
+        "id": "nx37",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"caro\" en polaco?",
+        "choices": ["tani", "stary", "drogi", "mały"],
+        "answer": "drogi",
+        "explanation": "caro = drogi"
+    },
+    {
+        "id": "nx38",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"nuevo\" en polaco?",
+        "choices": ["nowy", "stary", "dobry", "mały"],
+        "answer": "nowy",
+        "explanation": "nuevo = nowy"
+    },
+    {
+        "id": "nx39",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"viejo\" en polaco?",
+        "choices": ["nowy", "stary", "ładny", "łatwy"],
+        "answer": "stary",
+        "explanation": "viejo = stary"
+    },
+    {
+        "id": "nx40",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"pequeño\" en polaco?",
+        "choices": ["duży", "mały", "długi", "krótki"],
+        "answer": "mały",
+        "explanation": "pequeño = mały"
+    },
+
+    {
+        "id": "nx41",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo necesito ayuda\"",
+        "answer": "potrzebuję pomocy",
+        "explanation": "necesitar = potrzebować"
+    },
+    {
+        "id": "nx42",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"no sé\"",
+        "answer": "nie wiem",
+        "explanation": "no sé = nie wiem"
+    },
+    {
+        "id": "nx43",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"está bien\"",
+        "answer": "w porządku",
+        "explanation": "está bien = w porządku"
+    },
+    {
+        "id": "nx44",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"por supuesto\"",
+        "answer": "oczywiście",
+        "explanation": "por supuesto = oczywiście"
+    },
+    {
+        "id": "nx45",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"tal vez\"",
+        "answer": "może",
+        "explanation": "tal vez = może"
+    },
+
+    {
+        "id": "nx46",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"mañana (parte del día)\"?",
+        "answer": "rano",
+        "explanation": "mañana (morning) = rano"
+    },
+    {
+        "id": "nx47",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"tarde\"?",
+        "answer": "późno",
+        "explanation": "tarde = późno"
+    },
+    {
+        "id": "nx48",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"temprano\"?",
+        "answer": "wcześnie",
+        "explanation": "temprano = wcześnie"
+    },
+    {
+        "id": "nx49",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"cerca\"?",
+        "answer": "blisko",
+        "explanation": "cerca = blisko"
+    },
+    {
+        "id": "nx50",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"lejos\"?",
+        "answer": "daleko",
+        "explanation": "lejos = daleko"
+    },
+
+    {
+        "id": "nx51",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"La tienda está cerca\" → \"Sklep jest ___\"",
+        "answer": "blisko",
+        "explanation": "Sklep jest blisko"
+    },
+    {
+        "id": "nx52",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"La estación está lejos\" → \"Stacja jest ___\"",
+        "answer": "daleko",
+        "explanation": "Stacja jest daleko"
+    },
+    {
+        "id": "nx53",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ella se levanta temprano\" → \"Ona ___ wcześnie\"",
+        "answer": "wstaje",
+        "explanation": "Ona wstaje wcześnie"
+    },
+    {
+        "id": "nx54",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Nosotros volvemos a casa\" → \"My ___ do domu\"",
+        "answer": "wracamy",
+        "explanation": "My wracamy do domu"
+    },
+    {
+        "id": "nx55",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ellos esperan aquí\" → \"Oni ___ tutaj\"",
+        "answer": "czekają",
+        "explanation": "Oni czekają tutaj"
+    },
+
+    {
+        "id": "nx56",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"yo espero\" en polaco?",
+        "choices": ["czekam", "czekasz", "czeka", "czekają"],
+        "answer": "czekam",
+        "explanation": "yo → czekam"
+    },
+    {
+        "id": "nx57",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"tú vuelves\" en polaco?",
+        "choices": ["wracam", "wracasz", "wraca", "wracają"],
+        "answer": "wracasz",
+        "explanation": "tú → wracasz"
+    },
+    {
+        "id": "nx58",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"él paga\" en polaco?",
+        "choices": ["płacę", "płacisz", "płaci", "płacą"],
+        "answer": "płaci",
+        "explanation": "él → płaci"
+    },
+    {
+        "id": "nx59",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"nosotros preguntamos\" en polaco?",
+        "choices": ["pytam", "pytasz", "pytamy", "pytają"],
+        "answer": "pytamy",
+        "explanation": "nosotros → pytamy"
+    },
+    {
+        "id": "nx60",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ellos buscan\" en polaco?",
+        "choices": ["szukam", "szukasz", "szuka", "szukają"],
+        "answer": "szukają",
+        "explanation": "ellos → szukają"
+    },
+
+    {
+        "id": "nx61",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"yo busco trabajo\"",
+        "answer": "szukam pracy",
+        "explanation": "buscar = szukać"
+    },
+    {
+        "id": "nx62",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"necesito tiempo\"",
+        "answer": "potrzebuję czasu",
+        "explanation": "genitivo: czasu"
+    },
+    {
+        "id": "nx63",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"no puedo\"",
+        "answer": "nie mogę",
+        "explanation": "no puedo = nie mogę"
+    },
+    {
+        "id": "nx64",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"puedo ayudar\"",
+        "answer": "mogę pomóc",
+        "explanation": "ayudar = pomóc"
+    },
+    {
+        "id": "nx65",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"estoy cansado\"",
+        "answer": "jestem zmęczony",
+        "explanation": "forma masculina básica"
+    },
+
+    {
+        "id": "nx66",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"cansado\"?",
+        "answer": "zmęczony",
+        "explanation": "cansado en polaco: zmęczony"
+    },
+    {
+        "id": "nx67",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"feliz\"?",
+        "answer": "szczęśliwy",
+        "explanation": "feliz en polaco: szczęśliwy"
+    },
+    {
+        "id": "nx68",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"triste\"?",
+        "answer": "smutny",
+        "explanation": "triste en polaco: smutny"
+    },
+    {
+        "id": "nx69",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"ocupado\"?",
+        "answer": "zajęty",
+        "explanation": "ocupado en polaco: zajęty"
+    },
+    {
+        "id": "nx70",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"libre\"?",
+        "answer": "wolny",
+        "explanation": "libre en polaco: wolny"
+    },
+
+    {
+        "id": "nx71",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Estoy libre hoy\" → \"Jestem ___ dzisiaj\"",
+        "answer": "wolny",
+        "explanation": "Jestem wolny dzisiaj"
+    },
+    {
+        "id": "nx72",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ella está ocupada\" → \"Ona jest ___\"",
+        "answer": "zajęta",
+        "explanation": "forma femenina: zajęta"
+    },
+    {
+        "id": "nx73",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Estamos cansados\" → \"Jesteśmy ___\"",
+        "answer": "zmęczeni",
+        "explanation": "plural masculino personal"
+    },
+    {
+        "id": "nx74",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Él está feliz\" → \"On jest ___\"",
+        "answer": "szczęśliwy",
+        "explanation": "On jest szczęśliwy"
+    },
+    {
+        "id": "nx75",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Ella está triste\" → \"Ona jest ___\"",
+        "answer": "smutna",
+        "explanation": "forma femenina: smutna"
+    },
+
+    {
+        "id": "nx76",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"felices\" (ellos) en polaco?",
+        "choices": ["szczęśliwy", "szczęśliwa", "szczęśliwi", "szczęśliwe"],
+        "answer": "szczęśliwi",
+        "explanation": "plural masculino personal"
+    },
+    {
+        "id": "nx77",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ocupada\" (ella) en polaco?",
+        "choices": ["zajęty", "zajęta", "zajęci", "zajęte"],
+        "answer": "zajęta",
+        "explanation": "forma femenina"
+    },
+    {
+        "id": "nx78",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"libres\" (nosotros) en polaco?",
+        "choices": ["wolny", "wolna", "wolni", "wolne"],
+        "answer": "wolni",
+        "explanation": "plural masculino personal"
+    },
+    {
+        "id": "nx79",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"triste\" (masculino) en polaco?",
+        "choices": ["smutna", "smutny", "smutni", "smutne"],
+        "answer": "smutny",
+        "explanation": "forma masculina"
+    },
+    {
+        "id": "nx80",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"cansada\" en polaco?",
+        "choices": ["zmęczony", "zmęczona", "zmęczeni", "zmęczone"],
+        "answer": "zmęczona",
+        "explanation": "forma femenina"
+    },
+
+    {
+        "id": "nx81",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"hasta luego\"",
+        "answer": "do zobaczenia",
+        "explanation": "expresión común"
+    },
+    {
+        "id": "nx82",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"buenas noches\"",
+        "answer": "dobranoc",
+        "explanation": "buenas noches = dobranoc"
+    },
+    {
+        "id": "nx83",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"buenos días\"",
+        "answer": "dzień dobry",
+        "explanation": "buenos días = dzień dobry"
+    },
+    {
+        "id": "nx84",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"buena suerte\"",
+        "answer": "powodzenia",
+        "explanation": "buena suerte = powodzenia"
+    },
+    {
+        "id": "nx85",
+        "type": "translate_to_pl",
+        "prompt": "Traduce al polaco: \"salud\"",
+        "answer": "na zdrowie",
+        "explanation": "salud (brindis) = na zdrowie"
+    },
+
+    {
+        "id": "nx86",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"ayuda\"?",
+        "answer": "pomoc",
+        "explanation": "ayuda en polaco: pomoc"
+    },
+    {
+        "id": "nx87",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"problema\"?",
+        "answer": "problem",
+        "explanation": "problema en polaco: problem"
+    },
+    {
+        "id": "nx88",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"respuesta\"?",
+        "answer": "odpowiedź",
+        "explanation": "respuesta en polaco: odpowiedź"
+    },
+    {
+        "id": "nx89",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"pregunta\"?",
+        "answer": "pytanie",
+        "explanation": "pregunta en polaco: pytanie"
+    },
+    {
+        "id": "nx90",
+        "type": "meaning",
+        "prompt": "¿Cómo se escribe en polaco: \"ejemplo\"?",
+        "answer": "przykład",
+        "explanation": "ejemplo en polaco: przykład"
+    },
+
+    {
+        "id": "nx91",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Tengo un problema\" → \"Mam ___\"",
+        "answer": "problem",
+        "explanation": "Mam problem"
+    },
+    {
+        "id": "nx92",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Esta es la respuesta\" → \"To jest ___\"",
+        "answer": "odpowiedź",
+        "explanation": "To jest odpowiedź"
+    },
+    {
+        "id": "nx93",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Esta es una pregunta\" → \"To jest ___\"",
+        "answer": "pytanie",
+        "explanation": "To jest pytanie"
+    },
+    {
+        "id": "nx94",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Necesito ayuda\" → \"Potrzebuję ___\"",
+        "answer": "pomocy",
+        "explanation": "genitivo: pomocy"
+    },
+    {
+        "id": "nx95",
+        "type": "complete_sentence",
+        "prompt": "Completa en polaco: \"Este es un ejemplo\" → \"To jest ___\"",
+        "answer": "przykład",
+        "explanation": "To jest przykład"
+    },
+
+    {
+        "id": "nx96",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"respuesta\" en polaco?",
+        "choices": ["pytanie", "odpowiedź", "problem", "pomoc"],
+        "answer": "odpowiedź",
+        "explanation": "respuesta = odpowiedź"
+    },
+    {
+        "id": "nx97",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ayuda\" en polaco?",
+        "choices": ["pomoc", "problem", "przykład", "czas"],
+        "answer": "pomoc",
+        "explanation": "ayuda = pomoc"
+    },
+    {
+        "id": "nx98",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"pregunta\" en polaco?",
+        "choices": ["odpowiedź", "pytanie", "problem", "praca"],
+        "answer": "pytanie",
+        "explanation": "pregunta = pytanie"
+    },
+    {
+        "id": "nx99",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"problema\" en polaco?",
+        "choices": ["problem", "pomoc", "czas", "przykład"],
+        "answer": "problem",
+        "explanation": "problema = problem"
+    },
+    {
+        "id": "nx100",
+        "type": "options",
+        "prompt": "¿Cómo se dice \"ejemplo\" en polaco?",
+        "choices": ["praca", "przykład", "odpowiedź", "pytanie"],
+        "answer": "przykład",
+        "explanation": "ejemplo = przykład"
+    },
+    {
+        "id": "mix_84",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Ja ___ artykuł.\"",
+        "choices": ["czytam", "czyta", "czytasz", "czytamy"],
+        "answer": "czytam",
+        "explanation": "Ja → czytam"
+    },
+    {
+        "id": "mix_85",
+        "type": "complete_sentence",
+        "prompt": "Uzupełnij: \"Oni ___ rowery na wycieczkę.\"",
+        "choices": ["naprawiają", "naprawiam", "naprawiasz", "naprawia"],
+        "answer": "naprawiają",
+        "explanation": "Oni → naprawiają"
+    },
+
+    {
+        "id": "mix_86",
+        "type": "declension",
+        "prompt": "Genitivo: \"rower\" → (nie ma) ____",
+        "choices": ["roweru", "rower", "rowerem", "rowerze"],
+        "answer": "roweru",
+        "explanation": "nie ma roweru"
+    },
+    {
+        "id": "mix_87",
+        "type": "declension",
+        "prompt": "Locativo: \"rower\" → (na) ____ (na rowerze)",
+        "choices": ["rowerze", "roweru", "rowerem", "rower"],
+        "answer": "rowerze",
+        "explanation": "na rowerze (locativo)"
+    },
+    {
+        "id": "mix_88",
+        "type": "declension",
+        "prompt": "Instrumental: \"rower\" → (jadę) ____",
+        "choices": ["rowerem", "roweru", "rowerze", "rower"],
+        "answer": "rowerem",
+        "explanation": "jadę rowerem"
+    },
+    {
+        "id": "mix_89",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"pies\" → (dużo) ____",
+        "choices": ["psów", "psy", "psami", "psach"],
+        "answer": "psów",
+        "explanation": "dużo psów"
+    },
+    {
+        "id": "mix_90",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"kot\" → (dużo) ____",
+        "choices": ["kotów", "koty", "kotami", "kotach"],
+        "answer": "kotów",
+        "explanation": "dużo kotów"
+    },
+
+    {
+        "id": "mix_91",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Moje dzieci czekają na prezent\"",
+        "choices": [
+            "mis hijos esperan el regalo",
+            "mis hijos compran el regalo",
+            "mis hijos abren la ventana",
+            "mis hijos miran el mapa"
+        ],
+        "answer": "mis hijos esperan el regalo",
+        "explanation": "czekają = esperan"
+    },
+    {
+        "id": "mix_92",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nasi sąsiedzi pytają o współpracę\"",
+        "choices": [
+            "nuestros vecinos preguntan por colaboración",
+            "nuestros vecinos viven en colaboración",
+            "nuestros vecinos no entienden",
+            "nuestros vecinos beben café"
+        ],
+        "answer": "nuestros vecinos preguntan por colaboración",
+        "explanation": "pytają = preguntan, współpraca = colaboración"
+    },
+    {
+        "id": "mix_93",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Dawid czyta książkę\"",
+        "choices": [
+            "Dawid lee un libro",
+            "Dawid escribe un libro",
+            "Dawid compra un libro",
+            "Dawid vende un libro"
+        ],
+        "answer": "Dawid lee un libro",
+        "explanation": "czyta = lee"
+    },
+    {
+        "id": "mix_94",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"One ubierają się elegancko\"",
+        "choices": [
+            "ellas se visten elegante",
+            "ellas trabajan elegante",
+            "ellas caminan elegante",
+            "ellas miran elegante"
+        ],
+        "answer": "ellas se visten elegante",
+        "explanation": "ubierają się = se visten"
+    },
+    {
+        "id": "mix_95",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Ja stawiam się punktualnie\"",
+        "choices": [
+            "yo me presento puntualmente",
+            "yo bebo puntualmente",
+            "yo vivo puntualmente",
+            "yo duermo puntualmente"
+        ],
+        "answer": "yo me presento puntualmente",
+        "explanation": "stawiam się = me presento"
+    },
+
+    {
+        "id": "mix_96",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"sprzątać\"?",
+        "choices": ["limpiar/ordenar", "leer", "dormir", "pagar"],
+        "answer": "limpiar/ordenar",
+        "explanation": "sprzątać = limpiar / ordenar"
+    },
+    {
+        "id": "mix_97",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"naprawiać\"?",
+        "choices": ["reparar", "comprar", "vender", "escuchar"],
+        "answer": "reparar",
+        "explanation": "naprawiać = reparar"
+    },
+    {
+        "id": "mix_98",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"czekać\"?",
+        "choices": ["esperar", "correr", "llamar", "aprender"],
+        "answer": "esperar",
+        "explanation": "czekać = esperar"
+    },
+    {
+        "id": "mix_99",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"uczyć się\"?",
+        "choices": ["aprender/estudiar", "trabajar", "cocinar", "viajar"],
+        "answer": "aprender/estudiar",
+        "explanation": "uczyć się = aprender / estudiar"
+    },
+    {
+        "id": "mix_100",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dzwonić\"?",
+        "choices": ["llamar (por teléfono)", "mirar", "pagar", "vivir"],
+        "answer": "llamar (por teléfono)",
+        "explanation": "dzwonić = llamar"
+    },
+    {
+        "id": "d12",
+        "type": "declension",
+        "prompt": "Declinación (locativo): \"Warszawa\" → (en) ____",
+        "answer": "Warszawie",
+        "explanation": "Locativo singular: w Warszawie"
+    },
+    {
+        "id": "d13",
+        "type": "declension",
+        "prompt": "Declinación (instrumental): \"kawa\" → (con) ____",
+        "answer": "kawą",
+        "explanation": "Instrumental singular: z kawą"
+    },
+    {
+        "id": "d14",
+        "type": "declension",
+        "prompt": "Declinación (instrumental): \"herbata\" → (con) ____",
+        "answer": "herbatą",
+        "explanation": "Instrumental singular: z herbatą"
+    },
+    {
+        "id": "d15",
+        "type": "declension",
+        "prompt": "Declinación (instrumental): \"woda\" → (con) ____",
+        "answer": "wodą",
+        "explanation": "Instrumental singular: z wodą"
+    },
+    {
+        "id": "d16",
+        "type": "declension",
+        "prompt": "Declinación (instrumental): \"Polska\" → (con) ____",
+        "answer": "Polską",
+        "explanation": "Instrumental singular: z Polską (formal/gramatical)"
+    },
+    {
+        "id": "d17",
+        "type": "declension",
+        "prompt": "Declinación (acusativo): \"kawa\" → (veo/bebo) ____",
+        "answer": "kawę",
+        "explanation": "Acusativo singular femenino: kawę"
+    },
+    {
+        "id": "d18",
+        "type": "declension",
+        "prompt": "Declinación (acusativo): \"herbata\" → (piję) ____",
+        "answer": "herbatę",
+        "explanation": "Acusativo singular femenino: herbatę"
+    },
+    {
+        "id": "d19",
+        "type": "declension",
+        "prompt": "Declinación (acusativo): \"książka\" → (czytam) ____",
+        "answer": "książkę",
+        "explanation": "Acusativo singular femenino: książkę"
+    },
+    {
+        "id": "d20",
+        "type": "declension",
+        "prompt": "Declinación (acusativo): \"pies\" → (widzę) ____",
+        "answer": "psa",
+        "explanation": "Acusativo singular masculino animado: psa"
+    },
+    {
+        "id": "d21",
+        "type": "declension",
+        "prompt": "Declinación (genitivo plural): \"kot\" → (muchos) ____",
+        "answer": "kotów",
+        "explanation": "Genitivo plural: kotów"
+    },
+    {
+        "id": "d22",
+        "type": "declension",
+        "prompt": "Declinación (genitivo plural): \"pies\" → (muchos) ____",
+        "answer": "psów",
+        "explanation": "Genitivo plural: psów"
+    },
+    {
+        "id": "d23",
+        "type": "declension",
+        "prompt": "Declinación (genitivo plural): \"kobieta\" → (muchas) ____",
+        "answer": "kobiet",
+        "explanation": "Genitivo plural: kobiet"
+    },
+    {
+        "id": "d24",
+        "type": "declension",
+        "prompt": "Declinación (genitivo plural): \"książka\" → (muchas) ____",
+        "answer": "książek",
+        "explanation": "Genitivo plural: książek"
+    },
+    {
+        "id": "d25",
+        "type": "declension",
+        "prompt": "Declinación (genitivo plural): \"miasto\" → (muchas) ____",
+        "answer": "miast",
+        "explanation": "Genitivo plural: miast"
+    },
+
+    {
+        "id": "t1",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam dwa psy\"",
+        "answer": "tengo dos perros",
+        "explanation": "Mam = tengo, dwa = dos, psy = perros"
+    },
+    {
+        "id": "t2",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam jeden kot\"",
+        "answer": "tengo un gato",
+        "explanation": "Mam = tengo, jeden = uno, kot = gato"
+    },
+    {
+        "id": "t3",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest mój dom\"",
+        "answer": "esta es mi casa",
+        "explanation": "To jest = esto es, mój dom = mi casa"
+    },
+    {
+        "id": "t4",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest moja książka\"",
+        "answer": "este es mi libro",
+        "explanation": "moja książka = mi libro (femenino)"
+    },
+    {
+        "id": "t5",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Lubię kawę\"",
+        "answer": "me gusta el café",
+        "explanation": "Lubię = me gusta, kawa = café"
+    },
+    {
+        "id": "t6",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie lubię herbaty\"",
+        "answer": "no me gusta el té",
+        "explanation": "Nie lubię = no me gusta, herbaty (genitivo) tras negación"
+    },
+    {
+        "id": "t7",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jestem w domu\"",
+        "answer": "estoy en casa",
+        "explanation": "Jestem = estoy, w domu = en casa"
+    },
+
+    {
+        "id": "t16",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Słucham muzyki\"",
+        "answer": "escucho música",
+        "explanation": "Słucham = escucho, muzyki (genitivo)"
+    },
+    {
+        "id": "t17",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Pracuję dzisiaj\"",
+        "answer": "trabajo hoy",
+        "explanation": "Pracuję = trabajo, dzisiaj = hoy"
+    },
+    {
+        "id": "t18",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie pracuję jutro\"",
+        "answer": "no trabajo mañana",
+        "explanation": "Nie pracuję = no trabajo, jutro = mañana"
+    },
+    {
+        "id": "t19",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam czas\"",
+        "answer": "tengo tiempo",
+        "explanation": "Mam = tengo, czas = tiempo"
+    },
+    {
+        "id": "t20",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie mam czasu\"",
+        "answer": "no tengo tiempo",
+        "explanation": "Nie mam = no tengo, czasu (genitivo) tras negación"
+    },
+    {
+        "id": "t21",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Dziękuję\"",
+        "answer": "gracias",
+        "explanation": "Dziękuję = gracias"
+    },
+    {
+        "id": "t22",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Proszę\"",
+        "answer": "por favor",
+        "explanation": "Proszę = por favor / de nada"
+    },
+    {
+        "id": "t23",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Przepraszam\"",
+        "answer": "perdón",
+        "explanation": "Przepraszam = perdón / disculpa"
+    },
+    {
+        "id": "t24",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Tak, rozumiem\"",
+        "answer": "sí, entiendo",
+        "explanation": "Tak = sí, rozumiem = entiendo"
+    },
+    {
+        "id": "t25",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie rozumiem\"",
+        "answer": "no entiendo",
+        "explanation": "Nie = no, rozumiem = entiendo"
+    },
+    {
+        "id": "mc_adj_1",
+        "type": "complete_sentence",
+        "prompt": "Wczoraj spędziłem ___ dzień w pracy.",
+        "choices": ["trudny", "zielony", "wesoły", "słodki"],
+        "answer": "trudny",
+        "explanation": "Poprawnie: trudny dzień"
+    },
+    {
+        "id": "mc_adj_2",
+        "type": "complete_sentence",
+        "prompt": "Mój sąsiad jest bardzo ___, zawsze mi pomaga.",
+        "choices": ["przyjazny", "długi", "gorący", "stary"],
+        "answer": "przyjazny",
+        "explanation": "Poprawnie: bardzo przyjazny"
+    },
+
+    {
+        "id": "mc_conj_71",
+        "type": "complete_sentence",
+        "prompt": "Ja ___ przez okno.",
+        "choices": ["patrzę", "patrzysz", "patrzy", "patrzymy"],
+        "answer": "patrzę",
+        "explanation": "patrzeć → ja patrzę"
+    },
+    {
+        "id": "mc_conj_72",
+        "type": "complete_sentence",
+        "prompt": "Ty ___ papierosy?",
+        "choices": ["palisz", "palę", "pali", "palimy"],
+        "answer": "palisz",
+        "explanation": "palić → ty palisz"
+    },
+    {
+        "id": "mc_conj_73",
+        "type": "complete_sentence",
+        "prompt": "Oni ___ do pracy.",
+        "choices": ["chodzą", "chodzę", "chodzisz", "chodzi"],
+        "answer": "chodzą",
+        "explanation": "chodzić → oni chodzą"
+    },
+    {
+        "id": "mc_conj_74",
+        "type": "complete_sentence",
+        "prompt": "My ___ dobrze w nocy.",
+        "choices": ["śpimy", "śpię", "śpisz", "śpi"],
+        "answer": "śpimy",
+        "explanation": "spać → my śpimy"
+    },
+    {
+        "id": "mc_adj_3",
+        "type": "complete_sentence",
+        "prompt": "Kupiłem ___ telefon.",
+        "choices": ["nowy", "stary", "trudny", "wesoły"],
+        "answer": "nowy",
+        "explanation": "Poprawnie: nowy telefon"
+    },
+    {
+        "id": "mc_verb_1",
+        "type": "complete_sentence",
+        "prompt": "Mój brat ___ zniszczony zegarek dziadka.",
+        "choices": ["naprawia", "naprawiam", "naprawiają", "naprawiasz"],
+        "answer": "naprawia",
+        "explanation": "On/ona → naprawia"
+    },
+    {
+        "id": "mc_verb_2",
+        "type": "complete_sentence",
+        "prompt": "My ___ całe mieszkanie przed świętami.",
+        "choices": ["sprzątamy", "sprząta", "sprzątam", "sprzątacie"],
+        "answer": "sprzątamy",
+        "explanation": "My → sprzątamy"
+    },
+    {
+        "id": "m3",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"jutro\"?",
+        "answer": "mañana",
+        "explanation": "jutro = mañana (día siguiente)"
+    },
+    {
+        "id": "m4",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"zawsze\"?",
+        "answer": "siempre",
+        "explanation": "zawsze = siempre"
+    },
+    {
+        "id": "m5",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"często\"?",
+        "answer": "a menudo",
+        "explanation": "często = a menudo"
+    },
+    {
+        "id": "m6",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"rzadko\"?",
+        "answer": "raramente",
+        "explanation": "rzadko = raramente"
+    },
+    {
+        "id": "m7",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"nigdy\"?",
+        "answer": "nunca",
+        "explanation": "nigdy = nunca"
+    },
+    {
+        "id": "m8",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"teraz\"?",
+        "answer": "ahora",
+        "explanation": "teraz = ahora"
+    },
+    {
+        "id": "m9",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"później\"?",
+        "answer": "más tarde",
+        "explanation": "później = más tarde"
+    },
+    {
+        "id": "m10",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"wcześnie\"?",
+        "answer": "temprano",
+        "explanation": "wcześnie = temprano"
+    },
+    {
+        "id": "m11",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"praca\"?",
+        "answer": "trabajo",
+        "explanation": "praca = trabajo"
+    },
+    {
+        "id": "m12",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dom\"?",
+        "answer": "casa",
+        "explanation": "dom = casa"
+    },
+    {
+        "id": "m13",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"miasto\"?",
+        "answer": "ciudad",
+        "explanation": "miasto = ciudad"
+    },
+    {
+        "id": "t8",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jesteśmy w pracy\"",
+        "answer": "estamos en el trabajo",
+        "explanation": "Jesteśmy = estamos, w pracy = en el trabajo"
+    },
+    {
+        "id": "t9",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"On jest w szkole\"",
+        "answer": "él está en la escuela",
+        "explanation": "On = él, jest = está, w szkole = en la escuela"
+    },
+    {
+        "id": "t10",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Ona jest w Warszawie\"",
+        "answer": "ella está en Varsovia",
+        "explanation": "Ona = ella, w Warszawie = en Varsovia"
+    },
+    {
+        "id": "mc_verb_3",
+        "type": "complete_sentence",
+        "prompt": "Ty ___ na trzecim przystanku.",
+        "choices": ["wysiadasz", "wysiada", "wysiadam", "wysiadają"],
+        "answer": "wysiadasz",
+        "explanation": "Ty → wysiadasz"
+    },
+    {
+        "id": "mc_conj_1",
+        "type": "complete_sentence",
+        "prompt": "Codziennie rano ja ___ przez okno.",
+        "choices": ["patrzę", "patrzysz", "patrzy", "patrzymy"],
+        "answer": "patrzę",
+        "explanation": "Ja → patrzę"
+    },
+    {
+        "id": "mc_conj_2",
+        "type": "complete_sentence",
+        "prompt": "Czy ty ___ papierosy?",
+        "choices": ["palisz", "palę", "pali", "palimy"],
+        "answer": "palisz",
+        "explanation": "Ty → palisz"
+    },
+    {
+        "id": "mc_conj_3",
+        "type": "complete_sentence",
+        "prompt": "Oni zawsze ___ do pracy piechotą.",
+        "choices": ["chodzą", "chodzę", "chodzisz", "chodzi"],
+        "answer": "chodzą",
+        "explanation": "Oni → chodzą"
+    },
+    {
+        "id": "mc_adj_1",
+        "type": "complete_sentence",
+        "prompt": "Wczoraj spędziłem ___ dzień w pracy.",
+        "choices": ["trudny", "zielony", "słodki", "wesoły"],
+        "answer": "trudny",
+        "explanation": "Poprawnie: trudny dzień"
+    },
+    {
+        "id": "mc_adj_2",
+        "type": "complete_sentence",
+        "prompt": "Mój sąsiad jest bardzo ___.",
+        "choices": ["przyjazny", "długi", "gorący", "stary"],
+        "answer": "przyjazny",
+        "explanation": "Poprawnie: bardzo przyjazny"
+    },
+    {
+        "id": "mc_adj_3",
+        "type": "complete_sentence",
+        "prompt": "To jest ___ egzamin.",
+        "choices": ["trudny", "nowy", "zielony", "słodki"],
+        "answer": "trudny",
+        "explanation": "trudny egzamin"
+    },
+    {
+        "id": "mc_adj_4",
+        "type": "complete_sentence",
+        "prompt": "Kupiłem ___ telefon.",
+        "choices": ["nowy", "stary", "długi", "wesoły"],
+        "answer": "nowy",
+        "explanation": "nowy telefon"
+    },
+    {
+        "id": "mc_adj_5",
+        "type": "complete_sentence",
+        "prompt": "Mój pies jest bardzo ___.",
+        "choices": ["wesoły", "trudny", "długi", "zimny"],
+        "answer": "wesoły",
+        "explanation": "wesoły pies"
+    },
+    {
+        "id": "mc_adj_6",
+        "type": "complete_sentence",
+        "prompt": "To jest ___ miasto.",
+        "choices": ["piękne", "trudne", "gorący", "stary"],
+        "answer": "piękne",
+        "explanation": "miasto (nijaki) → piękne"
+    },
+    {
+        "id": "mc_adj_7",
+        "type": "complete_sentence",
+        "prompt": "Ola jest bardzo ___.",
+        "choices": ["sympatyczna", "wysoki", "stary", "długi"],
+        "answer": "sympatyczna",
+        "explanation": "forma żeńska"
+    },
+    {
+        "id": "mc_adj_8",
+        "type": "complete_sentence",
+        "prompt": "Michał jest ___.",
+        "choices": ["wysoki", "miła", "nowa", "szczupła"],
+        "answer": "wysoki",
+        "explanation": "forma męska"
+    },
+    {
+        "id": "mc_adj_9",
+        "type": "complete_sentence",
+        "prompt": "To była ___ noc.",
+        "choices": ["długa", "długi", "długie", "długą"],
+        "answer": "długa",
+        "explanation": "noc (żeńska)"
+    },
+    {
+        "id": "mc_adj_10",
+        "type": "complete_sentence",
+        "prompt": "On jest bardzo ___.",
+        "choices": ["cierpliwy", "cierpliwa", "cierpliwe", "cierpliwi"],
+        "answer": "cierpliwy",
+        "explanation": "on → cierpliwy"
+    },
+    {
+        "id": "mc_verb_36",
+        "type": "complete_sentence",
+        "prompt": "Ja ___ książkę.",
+        "choices": ["czytam", "czyta", "czytasz", "czytają"],
+        "answer": "czytam",
+        "explanation": "Ja → czytam"
+    },
+    {
+        "id": "mc_verb_37",
+        "type": "complete_sentence",
+        "prompt": "Ty ___ herbatę.",
+        "choices": ["pijesz", "piję", "pije", "piją"],
+        "answer": "pijesz",
+        "explanation": "Ty → pijesz"
+    },
+    {
+        "id": "mc_verb_38",
+        "type": "complete_sentence",
+        "prompt": "On ___ w domu.",
+        "choices": ["jest", "jestem", "jesteś", "są"],
+        "answer": "jest",
+        "explanation": "On → jest"
+    },
+    {
+        "id": "mc_verb_39",
+        "type": "complete_sentence",
+        "prompt": "My ___ w pracy.",
+        "choices": ["jesteśmy", "jestem", "są", "jesteś"],
+        "answer": "jesteśmy",
+        "explanation": "My → jesteśmy"
+    },
+    {
+        "id": "mc_verb_40",
+        "type": "complete_sentence",
+        "prompt": "Oni ___ samochód.",
+        "choices": ["mają", "mam", "masz", "ma"],
+        "answer": "mają",
+        "explanation": "Oni → mają"
+    },
+    {
+        "id": "mc_verb_41",
+        "type": "complete_sentence",
+        "prompt": "Ja ___ w Warszawie.",
+        "choices": ["mieszkam", "mieszkasz", "mieszka", "mieszkają"],
+        "answer": "mieszkam",
+        "explanation": "Ja → mieszkam"
+    },
+    {
+        "id": "mc_verb_42",
+        "type": "complete_sentence",
+        "prompt": "Ty ___ po polsku.",
+        "choices": ["mówisz", "mówię", "mówi", "mówią"],
+        "answer": "mówisz",
+        "explanation": "Ty → mówisz"
+    },
+
+    {
+        "id": "mc_conj_75",
+        "type": "complete_sentence",
+        "prompt": "Ja ___ o pomoc.",
+        "choices": ["proszę", "prosisz", "prosi", "prosimy"],
+        "answer": "proszę",
+        "explanation": "prosić → ja proszę"
+    },
+    {
+        "id": "e1",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"mięso\"?",
+        "answer": "carne",
+        "explanation": "mięso = carne"
+    },
+    {
+        "id": "e2",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ryba\"?",
+        "answer": "pescado",
+        "explanation": "ryba = pescado"
+    },
+    {
+        "id": "e3",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"warzywa\"?",
+        "answer": "verduras",
+        "explanation": "warzywa = verduras"
+    },
+    {
+        "id": "e4",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"owoc\"?",
+        "answer": "fruta",
+        "explanation": "owoc = fruta"
+    },
+    {
+        "id": "e5",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"śniadanie\"?",
+        "answer": "desayuno",
+        "explanation": "śniadanie = desayuno"
+    },
+
+    {
+        "id": "e6",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jem śniadanie\"",
+        "answer": "desayuno",
+        "explanation": "jem = como, śniadanie = desayuno"
+    },
+    {
+        "id": "e7",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Piję wodę\"",
+        "answer": "bebo agua",
+        "explanation": "piję = bebo, wodę = agua"
+    },
+    {
+        "id": "e8",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Kupuję chleb\"",
+        "answer": "compro pan",
+        "explanation": "kupuję = compro, chleb = pan"
+    },
+    {
+        "id": "e9",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Idę do sklepu\"",
+        "answer": "voy a la tienda",
+        "explanation": "idę = voy, do sklepu = a la tienda"
+    },
+    {
+        "id": "e10",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Wracam do domu\"",
+        "answer": "vuelvo a casa",
+        "explanation": "wracam = vuelvo, do domu = a casa"
+    },
+
+    {
+        "id": "e11",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ja ___ kawę\" (Yo bebo café)",
+        "answer": "piję",
+        "explanation": "Ja piję kawę"
+    },
+    {
+        "id": "e12",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ty ___ obiad\" (Tú comes el almuerzo)",
+        "answer": "jesz",
+        "explanation": "Ty jesz obiad"
+    },
+    {
+        "id": "e13",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"On ___ do pracy\" (Él va al trabajo)",
+        "answer": "idzie",
+        "explanation": "On idzie do pracy"
+    },
+    {
+        "id": "e14",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"My ___ w domu\" (Nosotros estamos en casa)",
+        "answer": "jesteśmy",
+        "explanation": "My jesteśmy w domu"
+    },
+    {
+        "id": "e15",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Oni ___ telewizję\" (Ellos ven la televisión)",
+        "answer": "oglądają",
+        "explanation": "Oni oglądają telewizję"
+    },
+
+    {
+        "id": "e16",
+        "type": "declension",
+        "prompt": "Genitivo: \"woda\" → (nie ma) ____",
+        "answer": "wody",
+        "explanation": "nie ma wody"
+    },
+    {
+        "id": "e17",
+        "type": "declension",
+        "prompt": "Acusativo: \"kawa\" → (piję) ____",
+        "answer": "kawę",
+        "explanation": "piję kawę"
+    },
+    {
+        "id": "e18",
+        "type": "declension",
+        "prompt": "Locativo: \"sklep\" → (w) ____",
+        "answer": "sklepie",
+        "explanation": "w sklepie"
+    },
+    {
+        "id": "e19",
+        "type": "declension",
+        "prompt": "Instrumental: \"herbata\" → (z) ____",
+        "answer": "herbatą",
+        "explanation": "z herbatą"
+    },
+    {
+        "id": "e20",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"jabłko\" → (dużo) ____",
+        "answer": "jabłek",
+        "explanation": "dużo jabłek"
+    },
+
+    {
+        "id": "e21",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"pogoda\"?",
+        "answer": "clima",
+        "explanation": "pogoda = clima"
+    },
+    {
+        "id": "e22",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"zimno\"?",
+        "answer": "frío",
+        "explanation": "zimno = frío"
+    },
+    {
+        "id": "e23",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ciepło\"?",
+        "answer": "calor",
+        "explanation": "ciepło = calor"
+    },
+    {
+        "id": "e24",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"deszcz\"?",
+        "answer": "lluvia",
+        "explanation": "deszcz = lluvia"
+    },
+    {
+        "id": "e25",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"śnieg\"?",
+        "answer": "nieve",
+        "explanation": "śnieg = nieve"
+    },
+
+    {
+        "id": "e26",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Jest zimno\"",
+        "answer": "hace frío",
+        "explanation": "jest zimno = hace frío"
+    },
+    {
+        "id": "e27",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Pada deszcz\"",
+        "answer": "llueve",
+        "explanation": "pada = cae, deszcz = lluvia"
+    },
+    {
+        "id": "e28",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam czas\"",
+        "answer": "tengo tiempo",
+        "explanation": "mam = tengo, czas = tiempo"
+    },
+    {
+        "id": "e29",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nie mam czasu\"",
+        "answer": "no tengo tiempo",
+        "explanation": "negación + genitivo"
+    },
+    {
+        "id": "e30",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Lubię kawę\"",
+        "answer": "me gusta el café",
+        "explanation": "lubię = me gusta"
+    },
+
+    {
+        "id": "e31",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ja ___ pracę\" (Yo tengo trabajo)",
+        "answer": "mam",
+        "explanation": "Ja mam pracę"
+    },
+    {
+        "id": "e32",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ty ___ po polsku\" (Tú hablas polaco)",
+        "answer": "mówisz",
+        "explanation": "Ty mówisz po polsku"
+    },
+    {
+        "id": "e33",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"On ___ książkę\" (Él lee un libro)",
+        "answer": "czyta",
+        "explanation": "On czyta książkę"
+    },
+    {
+        "id": "e34",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"My ___ kawę\" (Nosotros bebemos café)",
+        "answer": "pijemy",
+        "explanation": "My pijemy kawę"
+    },
+    {
+        "id": "e35",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Oni ___ w Polsce\" (Ellos viven en Polonia)",
+        "answer": "mieszkają",
+        "explanation": "Oni mieszkają w Polsce"
+    },
+
+    {
+        "id": "e36",
+        "type": "declension",
+        "prompt": "Genitivo: \"chleb\" → (nie ma) ____",
+        "answer": "chleba",
+        "explanation": "nie ma chleba"
+    },
+    {
+        "id": "e37",
+        "type": "declension",
+        "prompt": "Acusativo: \"obiad\" → (jem) ____",
+        "answer": "obiad",
+        "explanation": "jem obiad"
+    },
+    {
+        "id": "e38",
+        "type": "declension",
+        "prompt": "Locativo: \"dom\" → (w) ____",
+        "answer": "domu",
+        "explanation": "w domu"
+    },
+    {
+        "id": "e39",
+        "type": "declension",
+        "prompt": "Instrumental: \"samochód\" → (jadę) ____",
+        "answer": "samochodem",
+        "explanation": "jadę samochodem"
+    },
+    {
+        "id": "e40",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"pies\" → (dużo) ____",
+        "answer": "psów",
+        "explanation": "dużo psów"
+    },
+
+    {
+        "id": "e41",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"czasami\"?",
+        "answer": "a veces",
+        "explanation": "czasami = a veces"
+    },
+    {
+        "id": "e42",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"często\"?",
+        "answer": "a menudo",
+        "explanation": "często = a menudo"
+    },
+    {
+        "id": "e43",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"rzadko\"?",
+        "answer": "raramente",
+        "explanation": "rzadko = raramente"
+    },
+    {
+        "id": "e44",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"zawsze\"?",
+        "answer": "siempre",
+        "explanation": "zawsze = siempre"
+    },
+    {
+        "id": "e45",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"nigdy\"?",
+        "answer": "nunca",
+        "explanation": "nigdy = nunca"
+    },
+
+    {
+        "id": "e46",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Zawsze piję kawę\"",
+        "answer": "siempre bebo café",
+        "explanation": "zawsze = siempre"
+    },
+    {
+        "id": "e47",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Czasami pracuję w domu\"",
+        "answer": "a veces trabajo en casa",
+        "explanation": "czasami = a veces"
+    },
+    {
+        "id": "e48",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Nigdy nie palę\"",
+        "answer": "nunca fumo",
+        "explanation": "doble negación polaca"
+    },
+    {
+        "id": "e49",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Często czytam książki\"",
+        "answer": "a menudo leo libros",
+        "explanation": "czytam = leo"
+    },
+    {
+        "id": "e50",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Rzadko oglądam telewizję\"",
+        "answer": "raramente veo la televisión",
+        "explanation": "rzadko = raramente"
+    },
+
+    {
+        "id": "e51",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ja ___ jutro\" (Yo trabajo mañana)",
+        "answer": "pracuję",
+        "explanation": "Ja pracuję jutro"
+    },
+    {
+        "id": "e52",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ty ___ do szkoły\" (Tú vas a la escuela)",
+        "answer": "idziesz",
+        "explanation": "Ty idziesz do szkoły"
+    },
+    {
+        "id": "e53",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"On ___ wcześnie\" (Él se levanta temprano)",
+        "answer": "wstaje",
+        "explanation": "On wstaje wcześnie"
+    },
+    {
+        "id": "e54",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"My ___ razem\" (Nosotros comemos juntos)",
+        "answer": "jemy",
+        "explanation": "My jemy razem"
+    },
+    {
+        "id": "e55",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Oni ___ późno\" (Ellos llegan tarde)",
+        "answer": "przychodzą",
+        "explanation": "Oni przychodzą późno"
+    },
+
+    {
+        "id": "e56",
+        "type": "declension",
+        "prompt": "Genitivo: \"czas\" → (nie mam) ____",
+        "answer": "czasu",
+        "explanation": "nie mam czasu"
+    },
+    {
+        "id": "e57",
+        "type": "declension",
+        "prompt": "Acusativo: \"książka\" → (czytam) ____",
+        "answer": "książkę",
+        "explanation": "czytam książkę"
+    },
+    {
+        "id": "e58",
+        "type": "declension",
+        "prompt": "Locativo: \"praca\" → (w) ____",
+        "answer": "pracy",
+        "explanation": "w pracy"
+    },
+    {
+        "id": "e59",
+        "type": "declension",
+        "prompt": "Instrumental: \"rower\" → (jadę) ____",
+        "answer": "rowerem",
+        "explanation": "jadę rowerem"
+    },
+    {
+        "id": "e60",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"kobieta\" → (dużo) ____",
+        "answer": "kobiet",
+        "explanation": "dużo kobiet"
+    },
+
+    {
+        "id": "e61",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"drogi\"?",
+        "answer": "caro",
+        "explanation": "drogi = caro"
+    },
+    {
+        "id": "e62",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"tani\"?",
+        "answer": "barato",
+        "explanation": "tani = barato"
+    },
+    {
+        "id": "e63",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"ładny\"?",
+        "answer": "bonito",
+        "explanation": "ładny = bonito"
+    },
+    {
+        "id": "e64",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"brzydki\"?",
+        "answer": "feo",
+        "explanation": "brzydki = feo"
+    },
+    {
+        "id": "e65",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"łatwy\"?",
+        "answer": "fácil",
+        "explanation": "łatwy = fácil"
+    },
+
+    {
+        "id": "e66",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest drogie\"",
+        "answer": "esto es caro",
+        "explanation": "drogie = caro"
+    },
+    {
+        "id": "e67",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest tanie\"",
+        "answer": "esto es barato",
+        "explanation": "tanie = barato"
+    },
+    {
+        "id": "e68",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest łatwe\"",
+        "answer": "esto es fácil",
+        "explanation": "łatwe = fácil"
+    },
+    {
+        "id": "e69",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest trudne\"",
+        "answer": "esto es difícil",
+        "explanation": "trudne = difícil"
+    },
+    {
+        "id": "e70",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To jest ładne\"",
+        "answer": "esto es bonito",
+        "explanation": "ładne = bonito"
+    },
+
+    {
+        "id": "e71",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ten film jest ___\" (Esta película es buena)",
+        "answer": "dobry",
+        "explanation": "dobry = bueno"
+    },
+    {
+        "id": "e72",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ta książka jest ___\" (Este libro es interesante)",
+        "answer": "ciekawa",
+        "explanation": "ciekawa = interesante"
+    },
+    {
+        "id": "e73",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"To zadanie jest ___\" (Esta tarea es difícil)",
+        "answer": "trudne",
+        "explanation": "trudne = difícil"
+    },
+    {
+        "id": "e74",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Mój dom jest ___\" (Mi casa es grande)",
+        "answer": "duży",
+        "explanation": "duży = grande"
+    },
+    {
+        "id": "e75",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ten sklep jest ___\" (Esta tienda es barata)",
+        "answer": "tani",
+        "explanation": "tani = barato"
+    },
+
+    {
+        "id": "e76",
+        "type": "declension",
+        "prompt": "Genitivo: \"film\" → (nie ma) ____",
+        "answer": "filmu",
+        "explanation": "nie ma filmu"
+    },
+    {
+        "id": "e77",
+        "type": "declension",
+        "prompt": "Acusativo: \"film\" → (oglądam) ____",
+        "answer": "film",
+        "explanation": "oglądam film"
+    },
+    {
+        "id": "e78",
+        "type": "declension",
+        "prompt": "Locativo: \"kino\" → (w) ____",
+        "answer": "kinie",
+        "explanation": "w kinie"
+    },
+    {
+        "id": "e79",
+        "type": "declension",
+        "prompt": "Instrumental: \"przyjaciel\" → (z) ____",
+        "answer": "przyjacielem",
+        "explanation": "z przyjacielem"
+    },
+    {
+        "id": "e80",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"miasto\" → (dużo) ____",
+        "answer": "miast",
+        "explanation": "dużo miast"
+    },
+
+    {
+        "id": "e81",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"przyjaciel\"?",
+        "answer": "amigo",
+        "explanation": "przyjaciel = amigo"
+    },
+    {
+        "id": "e82",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"rodzina\"?",
+        "answer": "familia",
+        "explanation": "rodzina = familia"
+    },
+    {
+        "id": "e83",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"dzień\"?",
+        "answer": "día",
+        "explanation": "dzień = día"
+    },
+    {
+        "id": "e84",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"noc\"?",
+        "answer": "noche",
+        "explanation": "noc = noche"
+    },
+    {
+        "id": "e85",
+        "type": "meaning",
+        "prompt": "¿Qué significa en español: \"tydzień\"?",
+        "answer": "semana",
+        "explanation": "tydzień = semana"
+    },
+
+    {
+        "id": "e86",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Mam dużą rodzinę\"",
+        "answer": "tengo una familia grande",
+        "explanation": "dużą = grande"
+    },
+    {
+        "id": "e87",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"To był dobry dzień\"",
+        "answer": "fue un buen día",
+        "explanation": "był = fue"
+    },
+    {
+        "id": "e88",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Dobra noc\"",
+        "answer": "buenas noches",
+        "explanation": "expresión común"
+    },
+    {
+        "id": "e89",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Do zobaczenia jutro\"",
+        "answer": "hasta mañana",
+        "explanation": "do zobaczenia = hasta vernos"
+    },
+    {
+        "id": "e90",
+        "type": "translate_to_es",
+        "prompt": "Traduce al español: \"Miłego dnia\"",
+        "answer": "que tengas un buen día",
+        "explanation": "expresión educada"
+    },
+
+    {
+        "id": "e91",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ja ___ mojego przyjaciela\" (Yo veo a mi amigo)",
+        "answer": "widzę",
+        "explanation": "Ja widzę mojego przyjaciela"
+    },
+    {
+        "id": "e92",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Ty ___ list\" (Tú escribes una carta)",
+        "answer": "piszesz",
+        "explanation": "Ty piszesz list"
+    },
+    {
+        "id": "e93",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"On ___ muzyki\" (Él escucha música)",
+        "answer": "słucha",
+        "explanation": "On słucha muzyki"
+    },
+    {
+        "id": "e94",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"My ___ razem\" (Nosotros vivimos juntos)",
+        "answer": "mieszkamy",
+        "explanation": "My mieszkamy razem"
+    },
+    {
+        "id": "e95",
+        "type": "complete_sentence",
+        "prompt": "Completa: \"Oni ___ późno\" (Ellos duermen tarde)",
+        "answer": "śpią",
+        "explanation": "Oni śpią późno"
+    },
+
+    {
+        "id": "e96",
+        "type": "declension",
+        "prompt": "Genitivo: \"muzyka\" → (słucham) ____",
+        "answer": "muzyki",
+        "explanation": "słucham muzyki"
+    },
+    {
+        "id": "e97",
+        "type": "declension",
+        "prompt": "Acusativo: \"list\" → (piszę) ____",
+        "answer": "list",
+        "explanation": "piszę list"
+    },
+    {
+        "id": "e98",
+        "type": "declension",
+        "prompt": "Locativo: \"miasto\" → (w) ____",
+        "answer": "mieście",
+        "explanation": "w mieście"
+    },
+    {
+        "id": "e99",
+        "type": "declension",
+        "prompt": "Instrumental: \"rodzina\" → (z) ____",
+        "answer": "rodziną",
+        "explanation": "z rodziną"
+    },
+    {
+        "id": "e100",
+        "type": "declension",
+        "prompt": "Genitivo plural: \"dziecko\" → (dużo) ____",
+        "answer": "dzieci",
+        "explanation": "dużo dzieci"
+    }
+]
